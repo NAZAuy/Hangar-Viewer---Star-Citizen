@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hangar Viewer - GuildSwarm</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { background-color: #0f172a; color: #f8fafc; }
+        .card { transition: transform 0.2s; background: #1e293b; }
+        .card:hover { transform: translateY(-5px); }
+        .scrollbar-hide::-webkit-scrollbar { display: none; }
+    </style>
+</head>
+<body class="p-4 md:p-8">
+    <div class="max-w-7xl mx-auto">
+        <!-- Header -->
+        <header class="mb-8 flex flex-col md:flex-row justify-between items-center gap-4">
+            <div>
+                <h1 class="text-3xl font-bold text-blue-400">My Hangar Viewer</h1>
+                <p class="text-slate-400" id="version-label"></p>
+            </div>
+            <div class="flex flex-col md:flex-row gap-3">
+                <div class="flex gap-2 flex-wrap sm:flex-nowrap">
+                    <input type="text" id="search" placeholder="Buscar ítem..." class="px-4 py-2 rounded bg-slate-800 border border-slate-700 focus:outline-none focus:border-blue-500 w-48 lg:w-64">
+                    <select id="view-filter" class="px-4 py-2 rounded bg-slate-800 border border-slate-700 focus:outline-none">
+                        <option value="myHangar">Hangar Principal</option>
+                        <option value="myBuyBack">Buy Back</option>
+                    </select>
+                    <select id="category-filter" class="px-4 py-2 rounded bg-slate-800 border border-slate-700 focus:outline-none">
+                        <option value="all">Todas las Categorías</option>
+                    </select>
+                    <div class="flex bg-slate-800 p-1 rounded border border-slate-700 h-10 items-center">
+                        <button id="view-grid-btn" class="p-1.5 rounded transition-all bg-blue-600 text-white" title="Vista Cuadrícula">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z"></path></svg>
+                        </button>
+                        <button id="view-list-btn" class="p-1.5 rounded transition-all hover:bg-slate-700" title="Vista Lista">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
+                        </button>
+                    </div>
+                </div>
+                <label class="cursor-pointer bg-slate-700 hover:bg-slate-600 px-4 py-2 rounded border border-slate-600 text-sm font-bold flex items-center justify-center transition-all">
+                    <span>📁 Abrir JSON</span>
+                    <input type="file" id="file-selector" accept=".json" class="hidden">
+                </label>
+            </div>
+        </header>
+
+        <!-- Stats -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+            <div class="bg-slate-800 p-4 rounded-lg border border-slate-700">
+                <p class="text-sm text-slate-400 uppercase">Total Ítems</p>
+                <p class="text-2xl font-bold" id="stat-count">0</p>
+            </div>
+            <div class="bg-slate-800 p-4 rounded-lg border border-slate-700">
+                <p class="text-sm text-slate-400 uppercase">Valor Estimado</p>
+                <p class="text-2xl font-bold text-green-400" id="stat-value">$0.00</p>
+            </div>
+            <div class="bg-slate-800 p-4 rounded-lg border border-slate-700">
+                <p class="text-sm text-slate-400 uppercase">Filtro Actual</p>
+                <p class="text-2xl font-bold text-blue-400" id="stat-filter">Hangar</p>
+            </div>
+        </div>
+
+        <!-- Grid -->
+        <div id="grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            <!-- Las tarjetas se cargarán aquí -->
+        </div>
+
+        <!-- Footer -->
+        <footer class="mt-16 pt-8 border-t border-slate-800 text-center pb-12">
+            <p class="text-slate-500 mb-6 text-sm italic">
+                Hangar Viewer desarrollado por <a href="https://robertsspaceindustries.com/en/citizens/NAZAuy" target="_blank" class="text-blue-400 hover:text-blue-300 font-bold underline decoration-blue-500/30 underline-offset-4">NAZAuy</a>
+            </p>
+            <div class="inline-flex flex-col items-center bg-slate-800/40 border border-blue-500/20 p-8 rounded-3xl backdrop-blur-md shadow-2xl">
+                <span class="text-[10px] text-blue-400 uppercase font-black tracking-[0.3em] mb-3">¿Eres nuevo en Star Citizen?</span>
+                <a href="https://www.robertsspaceindustries.com/enlist?referral=STAR-YQ4M-W3SS" target="_blank" class="group flex flex-col items-center">
+                    <code class="text-3xl md:text-4xl font-mono font-black text-white group-hover:text-blue-400 transition-colors tracking-tighter">STAR-YQ4M-W3SS</code>
+                    <span class="text-[11px] text-slate-400 mt-4 group-hover:text-slate-300 transition-colors uppercase tracking-widest font-bold">Haz clic aquí para obtener 5,000 UEC de bonificación ↗</span>
+                </a>
+            </div>
+        </footer>
+    </div>
+
+    <script>
+        let hangarData = {};
+        let viewMode = 'grid';
+
+        function populateCategories() {
+            const filterType = document.getElementById('view-filter').value;
+            const list = hangarData[filterType] || [];
+            const categories = [...new Set(list.map(item => item.category))].filter(Boolean).sort();
+            
+            const catSelect = document.getElementById('category-filter');
+            const currentValue = catSelect.value;
+            
+            catSelect.innerHTML = '<option value="all">Todas las Categorías</option>';
+            categories.forEach(cat => {
+                const option = document.createElement('option');
+                option.value = cat;
+                option.textContent = cat.charAt(0).toUpperCase() + cat.slice(1).replace(/_/g, ' ');
+                catSelect.appendChild(option);
+            });
+            
+            if (categories.includes(currentValue)) {
+                catSelect.value = currentValue;
+            } else {
+                catSelect.value = 'all';
+            }
+        }
+
+        async function init() {
+            const grid = document.getElementById('grid');
+            grid.innerHTML = '<p class="col-span-full text-center text-blue-400 animate-pulse">Cargando inventario...</p>';
+            
+            try {
+                const response = await fetch('myHangar.json');
+                if (!response.ok) throw new Error('No se pudo encontrar el archivo myHangar.json');
+                hangarData = await response.json();
+                populateCategories();
+                render();
+            } catch (e) {
+                console.error("Error cargando JSON", e);
+                showErrorState();
+            }
+        }
+
+        function showErrorState() {
+            const grid = document.getElementById('grid');
+            grid.innerHTML = `
+                <div class="col-span-full text-center bg-red-900/20 p-8 rounded-xl border border-red-900/50">
+                    <p class="text-red-400 font-bold text-lg mb-2">Error "esperado" al cargar datos automáticamente</p>
+                    <p class="text-slate-400 text-sm mb-4">No se encontro el archivo <b>myHangar.json</b></p>
+                    <div class="flex flex-col items-center gap-3">
+                        <button onclick="document.getElementById('file-selector').click()" class="bg-blue-600 hover:bg-blue-500 text-white px-6 py-2 rounded-lg font-bold transition-colors">
+                            Seleccionar archivo JSON manualmente
+                        </button>
+                        <span class="text-slate-500 text-xs italic">Asegúrate de seleccionar el archivo JSON exportado desde tu cuenta de RSI usando <a href="https://chromewebstore.google.com/detail/guildswarm-hangar-manager/bfjobjficjfnhknonfpnndcmgmgiidkp" target="_blank" class="text-blue-400 hover:underline">Guildswarm - Hangar Manager Extension</a>.<br>
+                            Renombra el archivo a "myHangar.json" para facilitar la carga y no repetir esta acción.</span>
+                    </div>
+                </div>`;
+        }
+
+        // Función para renderizar tarjetas
+        function render() {
+            const filterType = document.getElementById('view-filter').value;
+            const categoryFilter = document.getElementById('category-filter').value;
+            const searchTerm = document.getElementById('search').value.toLowerCase();
+            const grid = document.getElementById('grid');
+            const list = hangarData[filterType] || [];
+            
+            const filteredList = list.filter(item => {
+                const matchesSearch = item.name.toLowerCase().includes(searchTerm) || 
+                                     item.category.toLowerCase().includes(searchTerm);
+                const matchesCategory = categoryFilter === 'all' || item.category === categoryFilter;
+                return matchesSearch && matchesCategory;
+            });
+
+            // Actualizar Stats
+            document.getElementById('stat-count').innerText = filteredList.length;
+            const totalVal = filteredList.reduce((acc, curr) => acc + (curr.value || curr.ccuInfo?.price || curr.elementData?.price || 0), 0);
+            document.getElementById('stat-value').innerText = `$${totalVal.toLocaleString()}`;
+            document.getElementById('stat-filter').innerText = filterType === 'myHangar' ? 'Hangar' : 'Buy Back';
+            document.getElementById('version-label').innerText = `Versión del archivo: ${hangarData.version || '1.0'}`;
+
+            if (viewMode === 'grid') {
+                grid.className = "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6";
+                grid.innerHTML = filteredList.map(item => createCard(item, filterType)).join('');
+            } else {
+                grid.className = "flex flex-col gap-2";
+                grid.innerHTML = filteredList.map(item => createListRow(item, filterType)).join('');
+            }
+        }
+
+        function createCard(item, type) {
+            const value = item.value !== undefined ? item.value : (item.ccuInfo?.price || item.elementData?.price || 0);
+            const date = item.createdDate || item.lastModification || "N/A";
+            
+            // Determinar badges
+            let badges = '';
+            if (item.gifteable) badges += `<span class="bg-blue-900 text-blue-200 text-xs px-2 py-1 rounded">Regalable</span> `;
+            if (item.exchangeable) badges += `<span class="bg-amber-900 text-amber-200 text-xs px-2 py-1 rounded">Fundible</span> `;
+            
+            // Buscar seguros o naves especiales en itemsData
+            const hasLTI = item.itemsData?.some(i => i.title.includes("Lifetime Insurance"));
+            if (hasLTI) badges += `<span class="bg-green-900 text-green-200 text-xs px-2 py-1 rounded font-bold">LTI</span>`;
+
+            return `
+                <div class="card rounded-xl overflow-hidden border border-slate-700 flex flex-col shadow-lg">
+                    <div class="relative h-48 bg-slate-900">
+                        <img src="${item.image}" alt="${item.name}" class="w-full h-full object-cover opacity-80">
+                        <div class="absolute top-2 right-2 bg-black/60 backdrop-blur px-2 py-1 rounded text-sm font-bold">
+                            $${value}
+                        </div>
+                        <div class="absolute bottom-2 left-2 flex gap-1 flex-wrap">
+                            ${badges}
+                        </div>
+                    </div>
+                    <div class="p-4 flex-grow">
+                        <div class="text-xs text-blue-400 font-mono mb-1 uppercase tracking-wider">${item.category}</div>
+                        <h3 class="font-bold text-lg leading-tight mb-2">${item.name}</h3>
+                        <p class="text-slate-400 text-sm mb-4 italic">${item.containsInfo || item.contained || ""}</p>
+                        
+                        ${item.itemsData && item.itemsData.length > 0 ? `
+                            <div class="space-y-1 mt-2">
+                                <p class="text-xs text-slate-500 font-bold uppercase">Contenido:</p>
+                                <ul class="text-xs text-slate-400 list-disc list-inside">
+                                    ${item.itemsData.slice(0, 3).map(i => `<li class="truncate">${i.title}</li>`).join('')}
+                                    ${item.itemsData.length > 3 ? `<li>...y ${item.itemsData.length - 3} más</li>` : ''}
+                                </ul>
+                            </div>
+                        ` : ''}
+                    </div>
+                    <div class="p-4 border-t border-slate-700 bg-slate-800/50 flex justify-between items-center text-xs">
+                        <span class="text-slate-500">${date}</span>
+                        <a href="${item.urlHangar || item.link}" target="_blank" class="text-blue-400 hover:text-blue-300 font-bold uppercase tracking-tighter">Ver en RSI ↗</a>
+                    </div>
+                </div>
+            `;
+        }
+
+        function createListRow(item, type) {
+            const value = item.value !== undefined ? item.value : (item.ccuInfo?.price || item.elementData?.price || 0);
+            const date = item.createdDate || item.lastModification || "N/A";
+            const hasLTI = item.itemsData?.some(i => i.title.includes("Lifetime Insurance"));
+            const ltiBadge = hasLTI ? `<span class="text-green-400 font-bold ml-1" title="LTI">⭐ LTI</span>` : '';
+
+            return `
+                <div class="bg-slate-800 border border-slate-700 p-3 rounded-lg flex items-center gap-4 hover:bg-slate-700 transition-colors group">
+                    <div class="w-12 h-12 flex-shrink-0 bg-slate-900 rounded overflow-hidden">
+                        <img src="${item.image}" alt="" class="w-full h-full object-cover opacity-70">
+                    </div>
+                    <div class="flex-grow min-w-0">
+                        <div class="flex items-center gap-2">
+                            <h3 class="font-bold truncate text-slate-200">${item.name}</h3>
+                            ${ltiBadge}
+                        </div>
+                        <div class="flex gap-2 text-xs text-slate-400 mt-0.5">
+                            <span class="text-blue-400 font-mono uppercase">${item.category}</span>
+                            <span class="hidden sm:inline">•</span>
+                            <span class="truncate italic hidden sm:inline">${item.containsInfo || item.contained || ""}</span>
+                        </div>
+                    </div>
+                    <div class="hidden md:block text-xs text-slate-500 min-w-[120px]">
+                        ${date}
+                    </div>
+                    <div class="text-right min-w-[80px]">
+                        <p class="font-bold text-green-400">$${value}</p>
+                        <a href="${item.urlHangar || item.link}" target="_blank" class="text-[10px] text-blue-400 uppercase font-bold opacity-0 group-hover:opacity-100 transition-opacity hover:underline">RSI ↗</a>
+                    </div>
+                </div>
+            `;
+        }
+
+        function toggleView(mode) {
+            viewMode = mode;
+            const btnGrid = document.getElementById('view-grid-btn');
+            const btnList = document.getElementById('view-list-btn');
+            
+            if (mode === 'grid') {
+                btnGrid.classList.add('bg-blue-600', 'text-white');
+                btnGrid.classList.remove('hover:bg-slate-700');
+                btnList.classList.remove('bg-blue-600', 'text-white');
+                btnList.classList.add('hover:bg-slate-700');
+            } else {
+                btnList.classList.add('bg-blue-600', 'text-white');
+                btnList.classList.remove('hover:bg-slate-700');
+                btnGrid.classList.remove('bg-blue-600', 'text-white');
+                btnGrid.classList.add('hover:bg-slate-700');
+            }
+            render();
+        }
+
+        // Event Listeners
+        document.getElementById('view-filter').addEventListener('change', () => {
+            populateCategories();
+            render();
+        });
+        document.getElementById('category-filter').addEventListener('change', render);
+        document.getElementById('search').addEventListener('input', render);
+        document.getElementById('view-grid-btn').addEventListener('click', () => toggleView('grid'));
+        document.getElementById('view-list-btn').addEventListener('click', () => toggleView('list'));
+
+        // Manejador para carga manual de archivo
+        document.getElementById('file-selector').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (!file) return;
+            
+            const reader = new FileReader();
+            reader.onload = function(event) {
+                try {
+                    hangarData = JSON.parse(event.target.result);
+                    populateCategories();
+                    render();
+                } catch (err) {
+                    alert("Error: El archivo no es un JSON válido.");
+                }
+            };
+            reader.readAsText(file);
+        });
+
+        init();
+    </script>
+</body>
+</html>

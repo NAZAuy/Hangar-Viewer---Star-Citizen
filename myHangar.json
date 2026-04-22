@@ -1,0 +1,4605 @@
+{
+  "version": "1.2",
+  "myHangar": [
+    {
+      "id": "2121c21145000fb2cd2121ffa0dghe49f24721215e6212155f44c0e2f9ab3921",
+      "name": "Surf and Turf",
+      "value": 0,
+      "createdDate": "April 09, 2026",
+      "containsInfo": "PTV and 2 items",
+      "image": "https://robertsspaceindustries.com/media/9s4bz7lhwpa1vr/heap_infobox/03.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/xmgj9a8b9jmiz/subscribers_vault_thumbnail.jpg",
+          "title": "PTV",
+          "kind": "Ship"
+        },
+        { "image": null, "title": "Fish School Referral", "kind": null },
+        { "image": null, "title": "Referral Fishtank", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=3&pagesize=1"
+    },
+    {
+      "id": "2121c2182b76449fc82121a6e59gh0d30deb2121c6f2121cbc62197929c33321",
+      "name": "Stella Fortuna 2956 Reward",
+      "value": 0,
+      "createdDate": "April 09, 2026",
+      "containsInfo": "Giocoso Helmet - Ivory",
+      "image": "https://media.robertsspaceindustries.com/5dpruzzu86pp4/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/sctdirqpsna8r/subscribers_vault_thumbnail.jpg",
+          "title": "Giocoso Helmet - Ivory",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=4&pagesize=1"
+    },
+
+    {
+      "id": "2121c21ac8ccad504221215a960gh541a4e92121ef92121c70fd3de986aa5721",
+      "name": "Red Festival Envelope Display",
+      "value": 0,
+      "createdDate": "April 08, 2026",
+      "containsInfo": "Red Festival Envelope Display",
+      "image": "https://media.robertsspaceindustries.com/1xbzuqamqdpjq/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/1xbzuqamqdpjq/subscribers_vault_thumbnail.jpg",
+          "title": "Red Festival Envelope Display",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=6&pagesize=1"
+    },
+    {
+      "id": "2121c21f8438628d3021213d38cghfacde7f21214572121418cfb056db0b2221",
+      "name": "CC’s Conversions Azrael ‘Sapphire’ Helmet ",
+      "value": 0,
+      "createdDate": "April 07, 2026",
+      "containsInfo": "CC’s Conversions Azrael ‘Sapphire’ Helmet",
+      "image": "https://media.robertsspaceindustries.com/v6hnhbtqik8o0/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/v6hnhbtqik8o0/subscribers_vault_thumbnail.jpg",
+          "title": "CC’s Conversions Azrael ‘Sapphire’ Helmet",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": true,
+      "exchangeable": true,
+      "category": "flair",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=7&pagesize=1"
+    },
+    {
+      "id": "2121c2119cfc7e1eee2121bd135gh2f6d04c212161921217447d7c4d386d3a21",
+      "name": "Silverton Jacket AA Transport",
+      "value": 0,
+      "createdDate": "March 18, 2026",
+      "containsInfo": "Silverton Jacket AA Transport",
+      "image": "https://media.robertsspaceindustries.com/7bzucageo0sva/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/7bzucageo0sva/subscribers_vault_thumbnail.jpg",
+          "title": "Silverton Jacket AA Transport",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=11&pagesize=1"
+    },
+    {
+      "id": "2121c214cb49c16cf42121d58ffghef2b0db21219d021214eff7b382dc5a8e21",
+      "name": "Year of the Rat Envelope",
+      "value": 0,
+      "createdDate": "March 03, 2026",
+      "containsInfo": "Year of the Rat Envelope",
+      "image": "https://media.robertsspaceindustries.com/xr8ls0kmy5wmp/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/xr8ls0kmy5wmp/subscribers_vault_thumbnail.jpg",
+          "title": "Year of the Rat Envelope",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=12&pagesize=1"
+    },
+    {
+      "id": "2121c216329fa006282121bd54cgh03bf7652121cc82121a3bef97613f6dda21",
+      "name": "ParaMed \"Cyanosis\" Medical Device",
+      "value": 0,
+      "createdDate": "March 03, 2026",
+      "containsInfo": "ParaMed \"Cyanosis\" Medical Device",
+      "image": "https://media.robertsspaceindustries.com/7zlduuheerr0h/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/7zlduuheerr0h/subscribers_vault_thumbnail.jpg",
+          "title": "ParaMed \"Cyanosis\" Medical Device",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": true,
+      "exchangeable": true,
+      "category": "flair",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=13&pagesize=1"
+    },
+    {
+      "id": "2121c218dedcc3fd5c2121b84fcgh26370cf212113f2121725f199d77ac48521",
+      "name": "Gladius Dunlevy Model - Referral Reward",
+      "value": 0,
+      "createdDate": "February 22, 2026",
+      "containsInfo": "Gladius Dunlevy Model",
+      "image": "https://media.robertsspaceindustries.com/2c7pjua8g4osf/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/2c7pjua8g4osf/subscribers_vault_thumbnail.jpg",
+          "title": "Gladius Dunlevy Model",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=16&pagesize=1"
+    },
+    {
+      "id": "2121c2108ae9979745212101048ghf0670d02121c2c2121f333444faaa5e1e21",
+      "name": "Gimbals and Guns",
+      "value": 0,
+      "createdDate": "February 22, 2026",
+      "containsInfo": "4 items",
+      "image": "https://robertsspaceindustries.com/media/nlwkgtw74tkpxr/heap_infobox/02.jpg",
+      "itemsData": [
+        {
+          "image": "https://robertsspaceindustries.com/media/1jr5bpj2mhi1yr/subscribers_vault_thumbnail/KLWE_S1_LaserRepeater.png",
+          "title": "CF-117 Bulldog (S1)",
+          "kind": "Component"
+        },
+        {
+          "image": "https://robertsspaceindustries.com/media/1jr5bpj2mhi1yr/subscribers_vault_thumbnail/KLWE_S1_LaserRepeater.png",
+          "title": "CF-117 Bulldog (S1)",
+          "kind": "Component"
+        },
+        {
+          "image": "https://robertsspaceindustries.com/media/lpeoz78afhh9fr/subscribers_vault_thumbnail/Class2-Gimbal.jpg",
+          "title": "S2 Gimbal Mount",
+          "kind": "Component"
+        },
+        {
+          "image": "https://robertsspaceindustries.com/media/lpeoz78afhh9fr/subscribers_vault_thumbnail/Class2-Gimbal.jpg",
+          "title": "S2 Gimbal Mount",
+          "kind": "Component"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=17&pagesize=1"
+    },
+    {
+      "id": "2121c2122ba3f3a4fe21219535cgh7f2fec22121a332121c4d1f647d962e6a21",
+      "name": "Year of the Rat Coin",
+      "value": 0,
+      "createdDate": "February 18, 2026",
+      "containsInfo": "Year of the Rat Coin",
+      "image": "https://media.robertsspaceindustries.com/klgjsb3uv3f46/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/klgjsb3uv3f46/subscribers_vault_thumbnail.jpg",
+          "title": "Year of the Rat Coin",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=18&pagesize=1"
+    },
+    {
+      "id": "2121c21dd6b87ddf8521211621egh66fb30e21218202121cd495e1ede1dbc321",
+      "name": "Pink Heart Lamp",
+      "value": 0,
+      "createdDate": "February 03, 2026",
+      "containsInfo": "Pink Heart Lamp",
+      "image": "https://media.robertsspaceindustries.com/5oqf64eix4bym/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/5oqf64eix4bym/subscribers_vault_thumbnail.jpg",
+          "title": "Pink Heart Lamp",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": true,
+      "exchangeable": true,
+      "category": "flair",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=19&pagesize=1"
+    },
+    {
+      "id": "2121c217067ab43a01212194876gh252be712121fbf2121f99df088eb21d7d21",
+      "name": "Silverton Jacket AA Collections",
+      "value": 0,
+      "createdDate": "January 30, 2026",
+      "containsInfo": "Silverton Jacket AA Collections",
+      "image": "https://media.robertsspaceindustries.com/vt0fzc0i7tr06/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/vt0fzc0i7tr06/subscribers_vault_thumbnail.jpg",
+          "title": "Silverton Jacket AA Collections",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=20&pagesize=1"
+    },
+    {
+      "id": "2121c21d0378643961212171ef7gh5d2196a212124821218a0b95986d62e9821",
+      "name": "Asgard Alliance Aid Green Livery",
+      "value": 0,
+      "createdDate": "January 30, 2026",
+      "containsInfo": "Asgard - Alliance Aid Green Paint",
+      "image": "https://media.robertsspaceindustries.com/5jh4rjo6xlij8/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/5jh4rjo6xlij8/subscribers_vault_thumbnail.jpg",
+          "title": "Asgard - Alliance Aid Green Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=21&pagesize=1"
+    },
+    {
+      "id": "2121c219d4f5736da22121bb498gh69a002b21211f421218cf9b91ce56c2da21",
+      "name": "Apollo Alliance Aid Red & Gold Livery",
+      "value": 0,
+      "createdDate": "January 30, 2026",
+      "containsInfo": "Apollo - Alliance Aid Red & Gold Paint",
+      "image": "https://media.robertsspaceindustries.com/xj7p81hm1sr7c/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/xj7p81hm1sr7c/subscribers_vault_thumbnail.jpg",
+          "title": "Apollo -  Alliance Aid Red & Gold Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=22&pagesize=1"
+    },
+    {
+      "id": "2121c21362944a24c521210de29gh0477e622121a7b2121e586807752ec92021",
+      "name": "Alliance Aid Completion Package",
+      "value": 0,
+      "createdDate": "January 30, 2026",
+      "containsInfo": "3 items",
+      "image": "https://media.robertsspaceindustries.com/rjy05n1i7kz8u/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/rjy05n1i7kz8u/subscribers_vault_thumbnail.jpg",
+          "title": "Perseus - Alliance Aid Camo Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/8woxx15tis3jr/subscribers_vault_thumbnail.jpg",
+          "title": "ParaMed \"AA Support\" Medical Device",
+          "kind": "FPS Equipment"
+        },
+        { "image": null, "title": "TBD Fabricator", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=23&pagesize=1"
+    },
+    {
+      "id": "2121c212b5805123062121cc9e2gh45596d6212115d212164da61a4121904a21",
+      "name": "Apollo Alliance Aid Red Livery",
+      "value": 0,
+      "createdDate": "January 30, 2026",
+      "containsInfo": "Apollo - Alliance Aid Red Paint",
+      "image": "https://media.robertsspaceindustries.com/dciqphytvo44u/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/dciqphytvo44u/subscribers_vault_thumbnail.jpg",
+          "title": "Apollo - Alliance Aid Red Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=24&pagesize=1"
+    },
+    {
+      "id": "2121c21b2c93f5533721217c31cgh58f2b20212109421219440bef9a7fddcc21",
+      "name": "Purifier Mask AA Support",
+      "value": 0,
+      "createdDate": "January 30, 2026",
+      "containsInfo": "Purifier Mask AA Support",
+      "image": "https://media.robertsspaceindustries.com/cljclv1cz742z/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/cljclv1cz742z/subscribers_vault_thumbnail.jpg",
+          "title": "Purifier Mask AA Support",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=25&pagesize=1"
+    },
+    {
+      "id": "2121c21048dd4482eb21216c27aghc5013042121f032121fbb7ebe112db99c21",
+      "name": "RAFT Alliance Aid Green Livery",
+      "value": 0,
+      "createdDate": "January 29, 2026",
+      "containsInfo": "RAFT - Alliance Aid Green Paint",
+      "image": "https://media.robertsspaceindustries.com/ifd6d6p0ofosg/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/ifd6d6p0ofosg/subscribers_vault_thumbnail.jpg",
+          "title": "RAFT - Alliance Aid Green Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=26&pagesize=1"
+    },
+    {
+      "id": "2121c2125385cd9ae12121c9ce7gh1274889212160d212151bb025bd13030d21",
+      "name": "MaxLift AA Transport Tractor Beam",
+      "value": 0,
+      "createdDate": "January 29, 2026",
+      "containsInfo": "MaxLift AA Transport Tractor Beam",
+      "image": "https://media.robertsspaceindustries.com/4gh167uny34bd/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/4gh167uny34bd/subscribers_vault_thumbnail.jpg",
+          "title": "MaxLift AA Transport Tractor Beam",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=27&pagesize=1"
+    },
+    {
+      "id": "2121c212c03b44638821210810dgh910f5ae21211722121d7d09826983c76f21",
+      "name": "Paladin Alliance Aid Camo Livery",
+      "value": 0,
+      "createdDate": "January 29, 2026",
+      "containsInfo": "Paladin - Alliance Aid Camo Paint",
+      "image": "https://media.robertsspaceindustries.com/3iysxrpbgfajt/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/3iysxrpbgfajt/subscribers_vault_thumbnail.jpg",
+          "title": "Paladin - Alliance Aid Camo Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=28&pagesize=1"
+    },
+    {
+      "id": "2121c2146713ccc78c21211179egh3618c7621210852121f9ad5d089dd487921",
+      "name": "Chiron Armor AA Support",
+      "value": 0,
+      "createdDate": "January 29, 2026",
+      "containsInfo": "5 items",
+      "image": "https://media.robertsspaceindustries.com/b4rgmmt0lfqac/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/c0k2l4fio05df/subscribers_vault_thumbnail.jpg",
+          "title": "MaxLift AA Support Tractor Beam",
+          "kind": "FPS Equipment"
+        },
+        { "image": null, "title": "Chiron Helmet AA Support", "kind": null },
+        { "image": null, "title": "Chiron Core AA Support", "kind": null },
+        { "image": null, "title": "Chiron Arms AA Support", "kind": null },
+        { "image": null, "title": "Chiron Legs AA Support", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=29&pagesize=1"
+    },
+    {
+      "id": "2121c21777f3ea0c98212167633ghd3d106d2121ffc2121f16d937f634c6bd21",
+      "name": "Behring Laser Cannons Defense Division",
+      "value": 0,
+      "createdDate": "January 29, 2026",
+      "containsInfo": "6 items",
+      "image": "https://media.robertsspaceindustries.com/ibobdis9den55/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/msfibu3pq4l7a/subscribers_vault_thumbnail.jpg",
+          "title": "M3A Cannon Defense Division",
+          "kind": "Component"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/msfibu3pq4l7a/subscribers_vault_thumbnail.jpg",
+          "title": "M3A Cannon Defense Division",
+          "kind": "Component"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/ol3sjon4zp54d/subscribers_vault_thumbnail.jpg",
+          "title": "M4A Cannon Defense Division",
+          "kind": "Component"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/ol3sjon4zp54d/subscribers_vault_thumbnail.jpg",
+          "title": "M4A Cannon Defense Division",
+          "kind": "Component"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/ibobdis9den55/subscribers_vault_thumbnail.jpg",
+          "title": "M5A Cannon Defense Division",
+          "kind": "Component"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/ibobdis9den55/subscribers_vault_thumbnail.jpg",
+          "title": "M5A Cannon Defense Division",
+          "kind": "Component"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=30&pagesize=1"
+    },
+    {
+      "id": "2121c2138479baefd221215ec36ghc89014b2121c2d2121e3e7f6da330875b21",
+      "name": "Silverton Jacket AA Defense",
+      "value": 0,
+      "createdDate": "January 29, 2026",
+      "containsInfo": "Silverton Jacket AA Defense",
+      "image": "https://media.robertsspaceindustries.com/ftni7zvsfm3ge/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/ftni7zvsfm3ge/subscribers_vault_thumbnail.jpg",
+          "title": "Silverton Jacket AA Defense",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=31&pagesize=1"
+    },
+    {
+      "id": "2121c211489ae73f3f21211a550gh0fcd5e92121a372121bde2c6ca6e3bf5f21",
+      "name": "Café Musain Sign",
+      "value": 0,
+      "createdDate": "January 22, 2026",
+      "containsInfo": "Café Musain Sign",
+      "image": "https://media.robertsspaceindustries.com/pa9xu11o67pe6/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/pa9xu11o67pe6/subscribers_vault_thumbnail.jpg",
+          "title": "Café Musain Sign",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=32&pagesize=1"
+    },
+    {
+      "id": "2121c2128bb91b8db021210ab14ghea2286321218a92121a60006ac7439eca21",
+      "name": "CC’s Conversions Azreal Helmet",
+      "value": 0,
+      "createdDate": "January 06, 2026",
+      "containsInfo": "CC’s Conversions Azrael Helmet",
+      "image": "https://media.robertsspaceindustries.com/hp76f1j42r0fq/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/hp76f1j42r0fq/subscribers_vault_thumbnail.jpg",
+          "title": "CC’s Conversions Azrael Helmet",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": true,
+      "exchangeable": true,
+      "category": "flair",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=33&pagesize=1"
+    },
+    {
+      "id": "2121c215a6b27a345b2121b174eghfba8eab2121d6421210048859f513ce0321",
+      "name": "Luminalia 2955 Day 13",
+      "value": 0,
+      "createdDate": "December 22, 2025",
+      "containsInfo": "Festive Kopion Display",
+      "image": "https://media.robertsspaceindustries.com/qxgn9ip77dusr/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/qxgn9ip77dusr/subscribers_vault_thumbnail.jpg",
+          "title": "Festive Kopion Display",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=34&pagesize=1"
+    },
+    {
+      "id": "2121c213d3442d6cb62121bdefcgh4cfbc1e212159c2121a2612a0262d034121",
+      "name": "Luminalia 2955 Day 12",
+      "value": 0,
+      "createdDate": "December 22, 2025",
+      "containsInfo": "Eyaja Knife",
+      "image": "https://media.robertsspaceindustries.com/tdqotj4x2wxze/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/tdqotj4x2wxze/subscribers_vault_thumbnail.jpg",
+          "title": "Eyaja Knife",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=35&pagesize=1"
+    },
+    {
+      "id": "2121c214631901544f21212f18fghf3a7df52121dd62121b60a60f3a3c708421",
+      "name": "Luminalia 2955 Day 11",
+      "value": 0,
+      "createdDate": "December 21, 2025",
+      "containsInfo": "2 items",
+      "image": "https://media.robertsspaceindustries.com/s7xr7ajklnrbr/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/z9qmtpfwrbm5n/subscribers_vault_thumbnail.jpg",
+          "title": "Terrapin - Deck the Hull Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/la0wliavl0re1/subscribers_vault_thumbnail.jpg",
+          "title": "Terrapin - IceBreak Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=36&pagesize=1"
+    },
+    {
+      "id": "2121c214fd190c998321210b850ghd8b67d1212185721213f1a628ed10d8e721",
+      "name": "Luminalia 2955 Day 10",
+      "value": 0,
+      "createdDate": "December 21, 2025",
+      "containsInfo": "Luminalia ' 55 Coin",
+      "image": "https://media.robertsspaceindustries.com/bwdtzv3shljqa/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/bwdtzv3shljqa/subscribers_vault_thumbnail.jpg",
+          "title": "Luminalia ' 55 Coin",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=37&pagesize=1"
+    },
+    {
+      "id": "2121c21c33e94f82cd21214b381ghb9848be2121ba2212185c80ff0999cf3421",
+      "name": "Luminalia 2955 Day 9",
+      "value": 0,
+      "createdDate": "December 19, 2025",
+      "containsInfo": "Piconalia Sweater Tannenbaum",
+      "image": "https://media.robertsspaceindustries.com/0m6sbgiv90k04/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/0m6sbgiv90k04/subscribers_vault_thumbnail.jpg",
+          "title": "Piconalia Sweater Tannenbaum",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=39&pagesize=1"
+    },
+    {
+      "id": "2121c215e74d52c2ca21219d656ghf6bd4862121754212118ef967addcc79f21",
+      "name": "Arden-CL Backpack - Chairman's Club Edition",
+      "value": 0,
+      "createdDate": "December 18, 2025",
+      "containsInfo": "Arden-SL Backpack - Chairman’s Club Edition",
+      "image": "https://media.robertsspaceindustries.com/rh0z62n78kqlw/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": null,
+          "title": "Arden-SL Backpack - Chairman’s Club Edition",
+          "kind": null
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=40&pagesize=1"
+    },
+    {
+      "id": "2121c21b13975e67432121fdcf4gh66c2b2e2121af82121ab291a0db92230021",
+      "name": "Luminalia 2955 Day 8",
+      "value": 0,
+      "createdDate": "December 17, 2025",
+      "containsInfo": "Parallax \"Piconalia\" Energy Assault Rifle",
+      "image": "https://media.robertsspaceindustries.com/o2sotwsacayar/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/o2sotwsacayar/subscribers_vault_thumbnail.jpg",
+          "title": "Parallax \"Piconalia\" Energy Assault Rifle",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=41&pagesize=1"
+    },
+    {
+      "id": "2121c21a868f4b5f9a212193335ghc1e211b21210422121bf6412cc893745621",
+      "name": "Headhunters Striker Clothing Set",
+      "value": 0,
+      "createdDate": "December 17, 2025",
+      "containsInfo": "5 items",
+      "image": "https://media.robertsspaceindustries.com/gkdis5p7b8mme/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": null,
+          "title": "Chrome Dome Head Gear Striker",
+          "kind": null
+        },
+        { "image": null, "title": "Alban Shirt Striker", "kind": null },
+        {
+          "image": null,
+          "title": "Navoi Boot and Pants Striker",
+          "kind": null
+        },
+        { "image": null, "title": "Misfit Jacket Striker", "kind": null },
+        { "image": null, "title": "Grappler Gloves Bone", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=42&pagesize=1"
+    },
+    {
+      "id": "2121c21b14950113052121e361eghaa969b92121e2b21218fb28c10450a22521",
+      "name": "Luminalia 2955 Day 7",
+      "value": 0,
+      "createdDate": "December 16, 2025",
+      "containsInfo": "2 items",
+      "image": "https://media.robertsspaceindustries.com/4olyc86hdng74/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/c25vma3bv961l/subscribers_vault_thumbnail.jpg",
+          "title": "Scorpius - Deck the Hull Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/h57an7alz0kdd/subscribers_vault_thumbnail.jpg",
+          "title": "Scorpius - IceBreak Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=43&pagesize=1"
+    },
+    {
+      "id": "2121c2137d20cbbc57212187dd8gh1dce7ca2121ffa2121a85a23a06f1ca2c21",
+      "name": "Luminalia 2955 Day 6",
+      "value": 0,
+      "createdDate": "December 15, 2025",
+      "containsInfo": "Hello Sunshine Luminalia Planter",
+      "image": "https://media.robertsspaceindustries.com/6mvteqhddmxwv/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/6mvteqhddmxwv/subscribers_vault_thumbnail.jpg",
+          "title": "Hello Sunshine Luminalia Planter",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=44&pagesize=1"
+    },
+    {
+      "id": "2121c21a73f265d50d212113fa3ghbcf733521212d12121bccdf77c4a7744c21",
+      "name": "Luminalia 2955 Day 5",
+      "value": 0,
+      "createdDate": "December 14, 2025",
+      "containsInfo": "Quartz \"Piconalia\" Energy SMG",
+      "image": "https://media.robertsspaceindustries.com/62usjx2xdv5vm/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/62usjx2xdv5vm/subscribers_vault_thumbnail.jpg",
+          "title": "Quartz \"Piconalia\" Energy SMG",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=45&pagesize=1"
+    },
+    {
+      "id": "2121c214b4de09cd3621212419dghcd024e12121381212165ff0bd0a7c022121",
+      "name": "Luminalia 2955 Day 4",
+      "value": 0,
+      "createdDate": "December 14, 2025",
+      "containsInfo": "2 items",
+      "image": "https://media.robertsspaceindustries.com/1xtofslum87dq/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/7q53jt153skwc/subscribers_vault_thumbnail.jpg",
+          "title": "Spirit - Deck the Hull Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/ekkgx3qz3x7em/subscribers_vault_thumbnail.jpg",
+          "title": "Spirit - IceBreak Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=46&pagesize=1"
+    },
+    {
+      "id": "2121c21715d91da01721214dc7agh51b3f262121abd212113ff974bd614aab21",
+      "name": "Luminalia 2955 Day 3",
+      "value": 0,
+      "createdDate": "December 13, 2025",
+      "containsInfo": "Good Gift Sweater Blue",
+      "image": "https://media.robertsspaceindustries.com/11k5e0wrxapbv/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/11k5e0wrxapbv/subscribers_vault_thumbnail.jpg",
+          "title": "Good Gift Sweater Blue",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=47&pagesize=1"
+    },
+    {
+      "id": "2121c213a70ae08d3b212137b4egheeb53db21218c921218f3a7b87e17b6fa21",
+      "name": "Luminalia 2955 Day 2",
+      "value": 0,
+      "createdDate": "December 11, 2025",
+      "containsInfo": "Pulse \"Piconalia\" Laser Pistol",
+      "image": "https://media.robertsspaceindustries.com/ydkg91du8icpv/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/ydkg91du8icpv/subscribers_vault_thumbnail.jpg",
+          "title": "Pulse \"Piconalia\" Laser Pistol",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=48&pagesize=1"
+    },
+    {
+      "id": "2121c2113188d2053c212111cc5gh334fa082121a6b2121b9826ebaea594aa21",
+      "name": "Luminalia 2955 Day 1",
+      "value": 0,
+      "createdDate": "December 10, 2025",
+      "containsInfo": "2 items",
+      "image": "https://media.robertsspaceindustries.com/dbucye9av5bjd/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/74ucgpllvgxty/subscribers_vault_thumbnail.jpg",
+          "title": "Golem - Deck the Hull Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/8nlg5y04i8w9o/subscribers_vault_thumbnail.jpg",
+          "title": "Golem - IceBreak Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=49&pagesize=1"
+    },
+    {
+      "id": "2121c21894685c003d2121d5d04gh1fbbfdb2121a6621210cd5f35a005972b21",
+      "name": "Polaris - 2955 Best in Show Winner Reward",
+      "value": 0,
+      "createdDate": "December 06, 2025",
+      "containsInfo": "Polaris - 2955 Best in Show Pennant",
+      "image": "https://media.robertsspaceindustries.com/kcr3n3ewk65v8/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/kcr3n3ewk65v8/subscribers_vault_thumbnail.jpg",
+          "title": "Polaris - 2955 Best in Show Pennant",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=50&pagesize=1"
+    },
+    {
+      "id": "2121c21c245de4838621216ed78gh4002824212175c212129abdaadab1d7e421",
+      "name": "CBD Malenky ‘Skullsplitter’ T-Shirt",
+      "value": 0,
+      "createdDate": "December 02, 2025",
+      "containsInfo": "CBD Malenky ‘Skullsplitter’ T-Shirt",
+      "image": "https://media.robertsspaceindustries.com/vn98xloq4gabm/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/vn98xloq4gabm/subscribers_vault_thumbnail.jpg",
+          "title": "CBD Malenky ‘Skullsplitter’ T-Shirt",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": true,
+      "exchangeable": true,
+      "category": "flair",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=51&pagesize=1"
+    },
+    {
+      "id": "2121c21d9fc126ba0c21216fdfbghbd1cc0d2121c982121b816aa75604879d21",
+      "name": "Geist “Epoque” Armor Set",
+      "value": 0,
+      "createdDate": "November 20, 2025",
+      "containsInfo": "5 items",
+      "image": "https://media.robertsspaceindustries.com/bsmzxgl35a4ri/heap_infobox.jpg",
+      "itemsData": [
+        { "image": null, "title": "Aztalan Helmet Epoque", "kind": null },
+        { "image": null, "title": "Geist Armor Core Epoque", "kind": null },
+        { "image": null, "title": "Geist Armor Arms Epoque", "kind": null },
+        { "image": null, "title": "Geist Armor Legs Epoque", "kind": null },
+        { "image": null, "title": "CSP-68L Backpack Epoque", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=52&pagesize=1"
+    },
+    {
+      "id": "2121c21edc010e972e2121ed658ghcdaad03212190a21218501e479aa26cb821",
+      "name": "Headhunters Reaper Livery Set",
+      "value": 0,
+      "createdDate": "November 06, 2025",
+      "containsInfo": "2 items",
+      "image": "https://media.robertsspaceindustries.com/ro2ott1novoz9/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/ro2ott1novoz9/subscribers_vault_thumbnail.jpg",
+          "title": "Arrow - Headhunters Reaper Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/dyvg7rxn2y3pq/subscribers_vault_thumbnail.jpg",
+          "title": "Spirit - Headhunters Reaper Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=53&pagesize=1"
+    },
+    {
+      "id": "2121c213a0b524ff0e2121c1091gh273feba21214302121730ff24b0787f8021",
+      "name": "Citizens for Prosperity Liberation Livery Set",
+      "value": 0,
+      "createdDate": "November 06, 2025",
+      "containsInfo": "2 items",
+      "image": "https://media.robertsspaceindustries.com/xx143uqkaenk8/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/xx143uqkaenk8/subscribers_vault_thumbnail.jpg",
+          "title": "Arrow - Citizens for Prosperity Liberation Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/615o0p9h8f1k7/subscribers_vault_thumbnail.jpg",
+          "title": "Spirit - Citizens for Prosperity Liberation Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=54&pagesize=1"
+    },
+    {
+      "id": "2121c2103efd205a56212118048ghd3214fd212169921213f186427665bd9021",
+      "name": "Misfit ‘Bonefire’ Jacket",
+      "value": 0,
+      "createdDate": "November 04, 2025",
+      "containsInfo": "Misfit Jacket Bonefire",
+      "image": "https://robertsspaceindustries.com/media/ovyui90d914kxr/heap_infobox/Star_Citizen_Subscriber_Flair_2025_Nov_SKU_centurion.jpg",
+      "itemsData": [
+        {
+          "image": "https://robertsspaceindustries.com/media/ovyui90d914kxr/subscribers_vault_thumbnail/Star_Citizen_Subscriber_Flair_2025_Nov_SKU_centurion.jpg",
+          "title": "Misfit Jacket Bonefire",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": true,
+      "exchangeable": true,
+      "category": "flair",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=55&pagesize=1"
+    },
+    {
+      "id": "2121c212260dc78fee2121dd490ghea42a762121b0c21214febbb2a102a48921",
+      "name": "MTC Headhunters Reaper Livery",
+      "value": 0,
+      "createdDate": "November 01, 2025",
+      "containsInfo": "MXC - Headhunters Reaper Paint",
+      "image": "https://media.robertsspaceindustries.com/9xw1irhrefimi/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/9xw1irhrefimi/subscribers_vault_thumbnail.jpg",
+          "title": "MXC - Headhunters Reaper Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=56&pagesize=1"
+    },
+    {
+      "id": "2121c215e7178b95a72121ceddcghaebbb89212178c2121f49a9f00b86058721",
+      "name": "MTC Citizens for Prosperity Liberation Livery",
+      "value": 0,
+      "createdDate": "November 01, 2025",
+      "containsInfo": "MXC - Citizens for Prosperity Liberation Paint",
+      "image": "https://media.robertsspaceindustries.com/r1e6hwm20nb1w/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/r1e6hwm20nb1w/subscribers_vault_thumbnail.jpg",
+          "title": "MXC - Citizens for Prosperity Liberation Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=57&pagesize=1"
+    },
+    {
+      "id": "2121c214c1ef199eb921210da20ghb1efce62121f2f2121b0760d3a3f7d4b021",
+      "name": "CFP Liberator Uniform",
+      "value": 0,
+      "createdDate": "October 18, 2025",
+      "containsInfo": "5 items",
+      "image": "https://media.robertsspaceindustries.com/mfbmyr8jijj6i/heap_infobox.jpg",
+      "itemsData": [
+        { "image": null, "title": "CFP Liberator Uniform Pants", "kind": null },
+        { "image": null, "title": "CFP Liberator Uniform Vest", "kind": null },
+        { "image": null, "title": "CFP Liberator Uniform Boots", "kind": null },
+        { "image": null, "title": "CFP Liberator Uniform Hat", "kind": null },
+        { "image": null, "title": "CFP Liberator Uniform Gloves", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=58&pagesize=1"
+    },
+    {
+      "id": "2121c21440cf1822ee2121cfe6dgh7f7c83b2121fb421212de4846bf837dca21",
+      "name": "Headhunter Veritas Outfit",
+      "value": 0,
+      "createdDate": "October 18, 2025",
+      "containsInfo": "5 items",
+      "image": "https://media.robertsspaceindustries.com/vf9jdearbgtrq/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": null,
+          "title": "Headhunter Veritas Outfit Jacket",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Headhunter Veritas Outfit Mask",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Headhunter Veritas Outfit Gloves",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Headhunter Veritas Outfit Shirt",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Headhunter Veritas Outfit Pants",
+          "kind": null
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=59&pagesize=1"
+    },
+    {
+      "id": "2121c21cd4dd90ec3c212134215ghfe47cfa2121ea0212157bb68d140b9ec221",
+      "name": "VOLT Quartz ‘GCD-Army’ SMG - Referral Reward",
+      "value": 0,
+      "createdDate": "October 10, 2025",
+      "containsInfo": "GCD-Army SMG",
+      "image": "https://media.robertsspaceindustries.com/2t9t9147xp4mo/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/2t9t9147xp4mo/subscribers_vault_thumbnail.jpg",
+          "title": "GCD-Army SMG",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=60&pagesize=1"
+    },
+    {
+      "id": "2121c21f133c34bd712121a86a6ghf143f542121201212156d2db7e0b6001421",
+      "name": "CDS GCD-Army Medium Armor Set - Referral Reward",
+      "value": 0,
+      "createdDate": "October 10, 2025",
+      "containsInfo": "6 items",
+      "image": "https://media.robertsspaceindustries.com/i7dimud9jbok2/heap_infobox.jpg",
+      "itemsData": [
+        { "image": null, "title": "GCD-Army Undersuit", "kind": null },
+        { "image": null, "title": "GCD-Army Backpack", "kind": null },
+        { "image": null, "title": "GCD-Army Arms", "kind": null },
+        { "image": null, "title": "GCD-Army Core", "kind": null },
+        { "image": null, "title": "GCD-Army Helmet", "kind": null },
+        { "image": null, "title": "GCD-Army Legs", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=61&pagesize=1"
+    },
+    {
+      "id": "2121c212cf0d71367a21210d4e1gh76b405f2121400212181bf038e8a9545a21",
+      "name": "Vaporwear Creese ‘Yormandi’ Jacket",
+      "value": 0,
+      "createdDate": "October 07, 2025",
+      "containsInfo": "Creese Yormandi Jacket",
+      "image": "https://media.robertsspaceindustries.com/mbppkrz291x26/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/mbppkrz291x26/subscribers_vault_thumbnail.jpg",
+          "title": "Creese Yormandi Jacket",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": true,
+      "exchangeable": true,
+      "category": "flair",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=62&pagesize=1"
+    },
+    {
+      "id": "2121c21f91b006c0f82121a34a0ghc6871d721217c12121aafa86d6a03353721",
+      "name": "Day of the Vara Horrifying Mask Set",
+      "value": 0,
+      "createdDate": "October 01, 2025",
+      "containsInfo": "3 items",
+      "image": "https://media.robertsspaceindustries.com/vjp349vwix307/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/l77jxbv0ivnul/subscribers_vault_thumbnail.jpg",
+          "title": "Scarecrow Helmet",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/ysu5cicvjez9t/subscribers_vault_thumbnail.jpg",
+          "title": "The Hill Horror Reborn Helmet",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/ccxcsrd0ev6w9/subscribers_vault_thumbnail.jpg",
+          "title": "Snarling Vanduul Helmet",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=63&pagesize=1"
+    },
+    {
+      "id": "2121c2196e851cff752121439a6gh8918a9e2121b8a21210c627dd2f81674c21",
+      "name": "Day of the Vara Scary Mask Set",
+      "value": 0,
+      "createdDate": "October 01, 2025",
+      "containsInfo": "3 items",
+      "image": "https://media.robertsspaceindustries.com/ldvj4gu8uvx5r/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/yke7cszvme33o/subscribers_vault_thumbnail.jpg",
+          "title": "Fieldsbury Dark Bear Helmet",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/7mxqaxwshy8mu/subscribers_vault_thumbnail.jpg",
+          "title": "Fieldsbury Dark Bear Helmet – Orange",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/mvk7j75uhsjc2/subscribers_vault_thumbnail.jpg",
+          "title": "Fieldsbury Dark Bear Helmet – Lime",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=64&pagesize=1"
+    },
+    {
+      "id": "2121c2119d70fd40542121a4433ghb74145f2121e632121e4f17a8c722a4fb21",
+      "name": "Day of the Vara Spooky Mask Set",
+      "value": 0,
+      "createdDate": "October 01, 2025",
+      "containsInfo": "3 items",
+      "image": "https://media.robertsspaceindustries.com/ovpjqi7386etx/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/s4g45t9vouej7/subscribers_vault_thumbnail.jpg",
+          "title": "Fieldsbury Dark Bear Helmet – Blueberry",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/fjwzoaql91w46/subscribers_vault_thumbnail.jpg",
+          "title": "Fieldsbury Dark Bear Helmet – Grape",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/0q4be07h2hk27/subscribers_vault_thumbnail.jpg",
+          "title": "Fieldsbury Dark Bear Helmet – Guava",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=65&pagesize=1"
+    },
+    {
+      "id": "2121c21194c9f8d88521217f0degh05b1eec2121e292121e0e2ca0838dc0d521",
+      "name": "Resource Drive Winner -  Hurston Dynamics",
+      "value": 0,
+      "createdDate": "September 18, 2025",
+      "containsInfo": "5 items",
+      "image": "https://media.robertsspaceindustries.com/p8etixee8mj6a/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": null,
+          "title": "Strata Core Hurston Dynamics Black",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Strata Backpack Hurston Dynamics Black",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Strata Legs Hurston Dynamics Black",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Strata Helmet Hurston Dynamics Black",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Strata Arms Hurston Dynamics Black",
+          "kind": null
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=66&pagesize=1"
+    },
+    {
+      "id": "2121c210dd49a0d7b4212121672ghabfc8b121217062121a4207ca6a8066b521",
+      "name": "Pirate Week 2025 Salvaged Skull Container Set",
+      "value": 0,
+      "createdDate": "September 18, 2025",
+      "containsInfo": "4 items",
+      "image": "https://media.robertsspaceindustries.com/sxk2a66p2oudm/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": null,
+          "title": "Salvaged Skull 1 SCU Container",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Salvaged Skull 2 SCU Container",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Salvaged Skull 4 SCU Container",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Salvaged Skull 8 SCU Container",
+          "kind": null
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=67&pagesize=1"
+    },
+    {
+      "id": "2121c2169563d1406721211f895gh3ca33202121142212123f59efc2dfbbe121",
+      "name": "Quirinus Tech ‘Daybreaker’ Undersuit and Helmet",
+      "value": 0,
+      "createdDate": "September 02, 2025",
+      "containsInfo": "2 items",
+      "image": "https://media.robertsspaceindustries.com/a49duznjpnlwp/heap_infobox.jpg",
+      "itemsData": [
+        { "image": null, "title": "Calva Helmet Daybreaker", "kind": null },
+        { "image": null, "title": "Sabine Undersuit Daybreaker", "kind": null }
+      ],
+      "gifteable": true,
+      "exchangeable": true,
+      "category": "flair",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=68&pagesize=1"
+    },
+    {
+      "id": "2121c2191090afcf9f2121d2c88ghbd88ce82121a952121aec5ca5488744d221",
+      "name": "Greycat ‘ASD’ Refinery Suit",
+      "value": 0,
+      "createdDate": "August 05, 2025",
+      "containsInfo": "5 items",
+      "image": "https://media.robertsspaceindustries.com/xjr0d5vxh378g/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": null,
+          "title": "ThermoWeave Hood ASD Edition",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "ThermoWeave Coat ASD Edition",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "ThermoWeave Gloves ASD Edition",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "ThermoWeave Pants ASD Edition",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "ThermoWeave Boots ASD Edition",
+          "kind": null
+        }
+      ],
+      "gifteable": true,
+      "exchangeable": true,
+      "category": "flair",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=69&pagesize=1"
+    },
+    {
+      "id": "2121c2120317d9014d21216d5f2gh4d4fbc521217e02121ea95f2e84f4066d21",
+      "name": "ArcCorp Resource Drive Reward - Tier 5",
+      "value": 0,
+      "createdDate": "July 31, 2025",
+      "containsInfo": "4 items",
+      "image": "https://media.robertsspaceindustries.com/td7vir0qa2798/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/td7vir0qa2798/subscribers_vault_thumbnail.jpg",
+          "title": "Starlancer - ArcCorp Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/0ezrvw2phqm8c/subscribers_vault_thumbnail.jpg",
+          "title": "Caterpillar - ArcCorp Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/vf1ctoaaw0xpl/subscribers_vault_thumbnail.jpg",
+          "title": "Hercules - ArcCorp Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/ppoq3553lfb9m/subscribers_vault_thumbnail.jpg",
+          "title": "Parallax \"ArcCorp\" Energy Assault Rifle",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=70&pagesize=1"
+    },
+    {
+      "id": "2121c213c7b0d278372121ca700ghae2743d2121fe32121330a599485087f321",
+      "name": "ArcCorp Resource Drive Reward - Tier 4",
+      "value": 0,
+      "createdDate": "July 29, 2025",
+      "containsInfo": "4 items",
+      "image": "https://media.robertsspaceindustries.com/lh22lutbmsnse/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/lh22lutbmsnse/subscribers_vault_thumbnail.jpg",
+          "title": "RAFT - ArcCorp Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/xyp5ryq7pva0a/subscribers_vault_thumbnail.jpg",
+          "title": "Freelancer - ArcCorp Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/d6y6oddrv9uyg/subscribers_vault_thumbnail.jpg",
+          "title": "Constellation - ArcCorp Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/jj0wmjj6isnz0/subscribers_vault_thumbnail.jpg",
+          "title": "Quartz \"ArcCorp\" Energy SMG",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=71&pagesize=1"
+    },
+    {
+      "id": "2121c2104f970c44dc2121dc3fbghe9c990821219e2212104fad938706a27f21",
+      "name": "Crusader Resource Drive Reward - Tier 5",
+      "value": 0,
+      "createdDate": "July 28, 2025",
+      "containsInfo": "4 items",
+      "image": "https://media.robertsspaceindustries.com/ygmefjewdln7a/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/ygmefjewdln7a/subscribers_vault_thumbnail.jpg",
+          "title": "Starlancer - Crusader Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/ssjly6s6fz8de/subscribers_vault_thumbnail.jpg",
+          "title": "Caterpillar - Crusader Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/pfcs1rqo66wzi/subscribers_vault_thumbnail.jpg",
+          "title": "Hercules - Crusader Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/dg5odbouqgck8/subscribers_vault_thumbnail.jpg",
+          "title": "Parallax \"Crusader\" Energy Assault Rifle",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=72&pagesize=1"
+    },
+    {
+      "id": "2121c21c59e696721c2121cb6aaghde6974f2121a452121bbe178f06be4b5121",
+      "name": "Crusader Resource Drive Reward - Tier 4",
+      "value": 0,
+      "createdDate": "July 27, 2025",
+      "containsInfo": "4 items",
+      "image": "https://media.robertsspaceindustries.com/jowr8zdt6a7b3/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/jowr8zdt6a7b3/subscribers_vault_thumbnail.jpg",
+          "title": "RAFT - Crusader Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/c0682wjr2ovyf/subscribers_vault_thumbnail.jpg",
+          "title": "Freelancer - Crusader Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/o55nkrf0gwxdc/subscribers_vault_thumbnail.jpg",
+          "title": "Constellation - Crusader Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/2sxcifk21nzcg/subscribers_vault_thumbnail.jpg",
+          "title": "Quartz \"Crusader\" Energy SMG",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=73&pagesize=1"
+    },
+    {
+      "id": "2121c21221f96ab3c621216794fghc1a95412121a9f21210c82a7b9fbbf87421",
+      "name": "Crusader Resource Drive Reward - Tier 3",
+      "value": 0,
+      "createdDate": "July 27, 2025",
+      "containsInfo": "4 items",
+      "image": "https://media.robertsspaceindustries.com/yggq0nxmlzqhh/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/j9c5td932jv7g/subscribers_vault_thumbnail.jpg",
+          "title": "Aurora Mk I - Crusader Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/snib481d693he/subscribers_vault_thumbnail.jpg",
+          "title": "Spirit - Crusader Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/9sisvxmzu4epc/subscribers_vault_thumbnail.jpg",
+          "title": "Zeus Mk II - Crusader Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/n0v2t0u5h4d9j/subscribers_vault_thumbnail.jpg",
+          "title": "Prism \"Crusader\" Laser Shotgun",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=74&pagesize=1"
+    },
+    {
+      "id": "2121c21fbb32eb39e02121bb8d7ghccf06252121b8921216ca1aa6d0549f9821",
+      "name": "microTech Resource Drive Reward - Tier 5",
+      "value": 0,
+      "createdDate": "July 27, 2025",
+      "containsInfo": "4 items",
+      "image": "https://media.robertsspaceindustries.com/su2o7fqumk6gl/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/su2o7fqumk6gl/subscribers_vault_thumbnail.jpg",
+          "title": "Starlancer - microTech Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/v9p2hpj3zi72t/subscribers_vault_thumbnail.jpg",
+          "title": "Caterpillar - microTech Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/q8zncjx1yztl4/subscribers_vault_thumbnail.jpg",
+          "title": "Hercules - microTech Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/0oxytotes883d/subscribers_vault_thumbnail.jpg",
+          "title": "Parallax \"microTech\" Energy Assault Rifle",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=75&pagesize=1"
+    },
+    {
+      "id": "2121c2176b9c398659212199c9fghc7f8db12121f942121c0a6797269593b421",
+      "name": "microTech Resource Drive Reward - Tier 4",
+      "value": 0,
+      "createdDate": "July 26, 2025",
+      "containsInfo": "4 items",
+      "image": "https://media.robertsspaceindustries.com/kpqmy5xiv9z8j/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/kpqmy5xiv9z8j/subscribers_vault_thumbnail.jpg",
+          "title": "RAFT - microTech Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/q6zkbp5signx3/subscribers_vault_thumbnail.jpg",
+          "title": "Freelancer - microTech Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/yjhboyq4xwx17/subscribers_vault_thumbnail.jpg",
+          "title": "Constellation - microTech Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/nfiafemeht4n5/subscribers_vault_thumbnail.jpg",
+          "title": "Quartz \"microTech\" Energy SMG",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=76&pagesize=1"
+    },
+    {
+      "id": "2121c211bdb8a2babd21213c426gh982d84921216e6212162a9cac1b3c02aa21",
+      "name": "microTech Resource Drive Reward - Tier 3",
+      "value": 0,
+      "createdDate": "July 25, 2025",
+      "containsInfo": "4 items",
+      "image": "https://media.robertsspaceindustries.com/2zezsjus60smx/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/lerk4uiv1e1d4/subscribers_vault_thumbnail.jpg",
+          "title": "Aurora Mk I - microTech Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/lzbjjqkpty3go/subscribers_vault_thumbnail.jpg",
+          "title": "Spirit - microTech Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/ijyl0l0c8rmz3/subscribers_vault_thumbnail.jpg",
+          "title": "Zeus Mk II - microTech Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/nfiafemeht4n5/subscribers_vault_thumbnail.jpg",
+          "title": "Prism \"microTech\" Laser Shotgun",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=77&pagesize=1"
+    },
+    {
+      "id": "2121c21b4144fb819e2121bafdegh707c813212189c212162054266bd9f26921",
+      "name": "Hurston Resource Drive Reward - Tier 5",
+      "value": 0,
+      "createdDate": "July 24, 2025",
+      "containsInfo": "4 items",
+      "image": "https://media.robertsspaceindustries.com/gp5j9mb5kkdx9/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/gp5j9mb5kkdx9/subscribers_vault_thumbnail.jpg",
+          "title": "Starlancer - Hurston Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/0thhx5v1ba96w/subscribers_vault_thumbnail.jpg",
+          "title": "Caterpillar - Hurston Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/b19urpkuxzl6m/subscribers_vault_thumbnail.jpg",
+          "title": "Hercules - Hurston Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/z208ay696tzf9/subscribers_vault_thumbnail.jpg",
+          "title": "Parallax \"Hurston\" Energy Assault Rifle",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=78&pagesize=1"
+    },
+    {
+      "id": "2121c21c94b55b661a2121ecac8gha25250f21210c3212121aa7f10dc490e621",
+      "name": "Hurston Resource Drive Reward - Tier 4",
+      "value": 0,
+      "createdDate": "July 24, 2025",
+      "containsInfo": "4 items",
+      "image": "https://media.robertsspaceindustries.com/ba1ymg4xz6il4/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/ba1ymg4xz6il4/subscribers_vault_thumbnail.jpg",
+          "title": "RAFT - Hurston Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/oqmmvw4uvdb6t/subscribers_vault_thumbnail.jpg",
+          "title": "Freelancer - Hurston Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/ipajvtq31mehu/subscribers_vault_thumbnail.jpg",
+          "title": "Constellation - Hurston Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/qk58krd696ia5/subscribers_vault_thumbnail.jpg",
+          "title": "Quartz \"Hurston\" Energy SMG",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=79&pagesize=1"
+    },
+    {
+      "id": "2121c21408584f62ca2121c7bcdghd1f02ab2121c7221218700e3c59cdca4b21",
+      "name": "Anvil Arrow Foundation Festival Paint",
+      "value": 0,
+      "createdDate": "July 24, 2025",
+      "containsInfo": "Anvil Arrow UEE Unity Paint",
+      "image": "https://media.robertsspaceindustries.com/1y7j2gktrh7z8/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/1y7j2gktrh7z8/subscribers_vault_thumbnail.jpg",
+          "title": "Anvil Arrow UEE Unity Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=80&pagesize=1"
+    },
+    {
+      "id": "2121c2132cab9a5caa212197903ghcee82f2212191d2121cbe4a43f74d1e7d21",
+      "name": "Freelancer Series - Foundation Festival Paint",
+      "value": 0,
+      "createdDate": "July 24, 2025",
+      "containsInfo": "Freelancer Series - Foundation Festival Paint",
+      "image": "https://media.robertsspaceindustries.com/zzegdy4yiro3y/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/zzegdy4yiro3y/subscribers_vault_thumbnail.jpg",
+          "title": "Freelancer Series - Foundation Festival Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=81&pagesize=1"
+    },
+    {
+      "id": "2121c21d3ee5e8b9c8212189deagh2b1284021210292121f2f0c14bbd3a09221",
+      "name": "Gladius - Foundation Festival Paint",
+      "value": 0,
+      "createdDate": "July 24, 2025",
+      "containsInfo": "Gladius - Foundation Festival Paint",
+      "image": "https://media.robertsspaceindustries.com/fiz6k7e97nsds/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/fiz6k7e97nsds/subscribers_vault_thumbnail.jpg",
+          "title": "Gladius - Foundation Festival Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=82&pagesize=1"
+    },
+    {
+      "id": "2121c21f351cde0d3c212161316gh180825c2121acc21214d9ffe1fd54eb3721",
+      "name": "Valkyrie - Foundation Festival Paint",
+      "value": 0,
+      "createdDate": "July 24, 2025",
+      "containsInfo": "Valkyrie - Foundation Festival Paint",
+      "image": "https://media.robertsspaceindustries.com/kair67g6grk20/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/kair67g6grk20/subscribers_vault_thumbnail.jpg",
+          "title": "Valkyrie - Foundation Festival Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=83&pagesize=1"
+    },
+    {
+      "id": "2121c215aa9d722c79212118a82gh5027f07212115d2121eaaf45708068dc321",
+      "name": "Prospector - Foundation Festival Paint",
+      "value": 0,
+      "createdDate": "July 24, 2025",
+      "containsInfo": "Prospector - Foundation Festival Paint",
+      "image": "https://media.robertsspaceindustries.com/5xso17o2z37d3/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/5xso17o2z37d3/subscribers_vault_thumbnail.jpg",
+          "title": "Prospector - Foundation Festival Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=84&pagesize=1"
+    },
+    {
+      "id": "2121c21bee0042888b2121d2f09ghd431e912121d002121368b7d057bd033721",
+      "name": "Cutlass - Foundation Festival Paint",
+      "value": 0,
+      "createdDate": "July 24, 2025",
+      "containsInfo": "Cutlass - Foundation Festival Paint",
+      "image": "https://media.robertsspaceindustries.com/fhusrs68du0fh/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/fhusrs68du0fh/subscribers_vault_thumbnail.jpg",
+          "title": "Cutlass - Foundation Festival Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=85&pagesize=1"
+    },
+    {
+      "id": "2121c21cafec6557592121dbe68ghc275c6921219602121ded65ec4c4888b521",
+      "name": "Caterpillar - Foundation Festival Paint",
+      "value": 0,
+      "createdDate": "July 24, 2025",
+      "containsInfo": "Caterpillar - Foundation Festival Paint",
+      "image": "https://media.robertsspaceindustries.com/bope7n80kupah/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/bope7n80kupah/subscribers_vault_thumbnail.jpg",
+          "title": "Caterpillar - Foundation Festival Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=86&pagesize=1"
+    },
+    {
+      "id": "2121c219d98cfe0d6a21219e097gh3690c31212171d212168c746dad80a84421",
+      "name": "Cutlass - Foundation Festival Paint",
+      "value": 0,
+      "createdDate": "July 24, 2025",
+      "containsInfo": "Cutlass - Foundation Festival Paint",
+      "image": "https://media.robertsspaceindustries.com/fhusrs68du0fh/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/fhusrs68du0fh/subscribers_vault_thumbnail.jpg",
+          "title": "Cutlass - Foundation Festival Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=87&pagesize=1"
+    },
+    {
+      "id": "2121c21190df5a26032121a6237gha77a8a421212762121890e360b0a3a41f21",
+      "name": "Razor - Foundation Festival Guide Reward",
+      "value": 0,
+      "createdDate": "July 24, 2025",
+      "containsInfo": "Razor - Foundation Fest Paint",
+      "image": "https://media.robertsspaceindustries.com/ez0g71g1jghpi/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": null,
+          "title": "Razor - Foundation Fest Paint",
+          "kind": null
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=88&pagesize=1"
+    },
+    {
+      "id": "2121c21392f53b5e392121856feghaaf35f921218f521215791e506786962421",
+      "name": "Starfarer - Foundation Festival Guide Reward",
+      "value": 0,
+      "createdDate": "July 24, 2025",
+      "containsInfo": "Starfarer - Foundation Fest Paint",
+      "image": "https://media.robertsspaceindustries.com/dp7dnsgn9a8sg/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/dp7dnsgn9a8sg/subscribers_vault_thumbnail.jpg",
+          "title": "Starfarer - Foundation Fest Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=89&pagesize=1"
+    },
+    {
+      "id": "2121c21a7b2e1f04152121b8fb5gheb6281a2121eab21213a23d08d35f8b3421",
+      "name": "600i Touring - Foundation Festival Paint",
+      "value": 0,
+      "createdDate": "July 24, 2025",
+      "containsInfo": "600i Touring - Foundation Festival Paint",
+      "image": "https://media.robertsspaceindustries.com/pjoc1vf9y4y93/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/pjoc1vf9y4y93/subscribers_vault_thumbnail.jpg",
+          "title": "600i Touring - Foundation Festival Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=90&pagesize=1"
+    },
+    {
+      "id": "2121c219776698b0bf2121d3130gh0d5f98221218882121beb05907f9c4b4b21",
+      "name": "Star Runner - Foundation Festival Paint",
+      "value": 0,
+      "createdDate": "July 24, 2025",
+      "containsInfo": "Star Runner - Foundation Festival Paint",
+      "image": "https://media.robertsspaceindustries.com/1wd6c9s0t4va1/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/1wd6c9s0t4va1/subscribers_vault_thumbnail.jpg",
+          "title": "Star Runner - Foundation Festival Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=91&pagesize=1"
+    },
+    {
+      "id": "2121c21f8b5b86d4f82121981d8ghe581c9321214d42121e21d3b1e318ecb621",
+      "name": "microTech Resource Drive Reward - Tier 2",
+      "value": 0,
+      "createdDate": "July 23, 2025",
+      "containsInfo": "6 items",
+      "image": "https://media.robertsspaceindustries.com/fyy2x7qhaaa6y/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/8xfhme9e5c334/subscribers_vault_thumbnail.jpg",
+          "title": "Pulse \"microTech\" Laser Pistol",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": null,
+          "title": "Strata Core microTech Edition",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Strata Arms microTech Edition",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Strata Legs microTech Edition",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Strata Helmet microTech Edition",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Strata Backpack microTech Edition",
+          "kind": null
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=92&pagesize=1"
+    },
+    {
+      "id": "2121c2149559f0cdbb21212a521gh177c14d212115b2121694d1f833d19cb621",
+      "name": "microTech Resource Drive Reward - Tier 1",
+      "value": 0,
+      "createdDate": "July 23, 2025",
+      "containsInfo": "3 items",
+      "image": "https://media.robertsspaceindustries.com/4wlpw08qkm9ja/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/mkhbiinh9eirp/subscribers_vault_thumbnail.jpg",
+          "title": "Pyro RYT \"microTech\" Multi-Tool",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": null,
+          "title": "Falston Jumpsuit “microTech Edition”",
+          "kind": null
+        },
+        { "image": null, "title": "microTech Hat", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=93&pagesize=1"
+    },
+    {
+      "id": "2121c21e5d8f32035c21216edc7gh191e1642121d2f21214b438d0d89651dc21",
+      "name": "ArcCorp Resource Drive Reward - Tier 3",
+      "value": 0,
+      "createdDate": "July 23, 2025",
+      "containsInfo": "4 items",
+      "image": "https://media.robertsspaceindustries.com/bbgsne9w65n04/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/ok3osarkkrgln/subscribers_vault_thumbnail.jpg",
+          "title": "Aurora Mk I - ArcCorp Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/bk341ckr22iyt/subscribers_vault_thumbnail.jpg",
+          "title": "Spirit - ArcCorp Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/ptyprusvyedxs/subscribers_vault_thumbnail.jpg",
+          "title": "Zeus Mk II - ArcCorp Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/mze04i1wvjgb6/subscribers_vault_thumbnail.jpg",
+          "title": "Prism \"ArcCorp\" Laser Shotgun",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=94&pagesize=1"
+    },
+    {
+      "id": "2121c21b66f6e266842121aa4f1gh3b4ea2821219502121b277f005d53dcdc21",
+      "name": "Hurston Resource Drive Reward - Tier 3",
+      "value": 0,
+      "createdDate": "July 23, 2025",
+      "containsInfo": "4 items",
+      "image": "https://media.robertsspaceindustries.com/hkruk8rltkb1e/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/7khzw6wm6f712/subscribers_vault_thumbnail.jpg",
+          "title": "Aurora Mk I - Hurston Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/jc62ov8951dj7/subscribers_vault_thumbnail.jpg",
+          "title": "Spirit - Hurston Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/xasj9kz8mmad8/subscribers_vault_thumbnail.jpg",
+          "title": "Zeus Mk II - Hurston Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/l6qz8dxaixuni/subscribers_vault_thumbnail.jpg",
+          "title": "Prism \"Hurston\" Laser Shotgun",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=95&pagesize=1"
+    },
+    {
+      "id": "2121c217c31cde693121218e88dgh60b528a212187e212129c2928ee1efcf621",
+      "name": "ArcCorp Resource Drive Reward - Tier 2",
+      "value": 0,
+      "createdDate": "July 21, 2025",
+      "containsInfo": "6 items",
+      "image": "https://media.robertsspaceindustries.com/dbl7tvyeejexl/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/gvs7aia6h7tek/subscribers_vault_thumbnail.jpg",
+          "title": "Pulse \"ArcCorp\" Laser Pistol",
+          "kind": "FPS Equipment"
+        },
+        { "image": null, "title": "Strata Core ArcCorp Edition", "kind": null },
+        { "image": null, "title": "Strata Arms ArcCorp Edition", "kind": null },
+        { "image": null, "title": "Strata Legs ArcCorp Edition", "kind": null },
+        {
+          "image": null,
+          "title": "Strata Helmet ArcCorp Edition",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Strata Backpack ArcCorp Edition",
+          "kind": null
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=96&pagesize=1"
+    },
+    {
+      "id": "2121c21a940f9531b0212156150gh600092d2121a2921212b4553f65981f2321",
+      "name": "ArcCorp Resource Drive Reward - Tier 1",
+      "value": 0,
+      "createdDate": "July 21, 2025",
+      "containsInfo": "3 items",
+      "image": "https://media.robertsspaceindustries.com/9fr7xg5uul6wr/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/vggm9p0fbwfhq/subscribers_vault_thumbnail.jpg",
+          "title": "Pyro RYT \"ArcCorp\" Multi-Tool",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": null,
+          "title": "Falston Jumpsuit “ArcCorp Edition”",
+          "kind": null
+        },
+        { "image": null, "title": "ArcCorp Hat", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=97&pagesize=1"
+    },
+    {
+      "id": "2121c21c3d077db1a4212173684gh19f14642121acf21213304481d10bca2221",
+      "name": "Crusader Resource Drive Reward - Tier 2",
+      "value": 0,
+      "createdDate": "July 18, 2025",
+      "containsInfo": "6 items",
+      "image": "https://media.robertsspaceindustries.com/7dzxoh0u66hg3/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/bdjejx5spsf25/subscribers_vault_thumbnail.jpg",
+          "title": "Pulse \"Crusader\" Laser Pistol",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": null,
+          "title": "Strata Core Crusader Edition",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Strata Arms Crusader Edition",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Strata Legs Crusader Edition",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Strata Helmet Crusader Edition",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Strata Backpack Crusader Edition",
+          "kind": null
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=98&pagesize=1"
+    },
+    {
+      "id": "2121c21a3b146972e92121d81aegh540e0bd2121d6d2121cd496d8647ffda721",
+      "name": "Crusader Resource Drive Reward - Tier 1",
+      "value": 0,
+      "createdDate": "July 18, 2025",
+      "containsInfo": "3 items",
+      "image": "https://media.robertsspaceindustries.com/dst3n3mjr1mp9/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/bz1hu9gjltoeh/subscribers_vault_thumbnail.jpg",
+          "title": "Pyro RYT \"Crusader\" Multi-Tool",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": null,
+          "title": "Falston Jumpsuit “Crusader Edition”",
+          "kind": null
+        },
+        { "image": null, "title": "Crusader Hat", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=99&pagesize=1"
+    },
+    {
+      "id": "2121c21f432c52dfd521210cc0bgh4204f3e21211fd2121b25251c9997557421",
+      "name": "Hurston Resource Drive Reward - Tier 2",
+      "value": 0,
+      "createdDate": "July 18, 2025",
+      "containsInfo": "6 items",
+      "image": "https://media.robertsspaceindustries.com/4urtqevibr64y/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/41b73xcaerrtm/subscribers_vault_thumbnail.jpg",
+          "title": "Pulse \"Hurston\" Laser Pistol",
+          "kind": "FPS Equipment"
+        },
+        { "image": null, "title": "Strata Core Hurston Edition", "kind": null },
+        { "image": null, "title": "Strata Arms Hurston Edition", "kind": null },
+        {
+          "image": null,
+          "title": "Strata Helmet Hurston Edition",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Strata Backpack Hurston Edition",
+          "kind": null
+        },
+        { "image": null, "title": "Strata Legs Hurston Edition", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=100&pagesize=1"
+    },
+    {
+      "id": "2121c217d80afd1135212193fe7gh0b087be212130821214b2fa5d31c4927221",
+      "name": "Hurston Resource Drive Reward - Tier 1",
+      "value": 0,
+      "createdDate": "July 18, 2025",
+      "containsInfo": "3 items",
+      "image": "https://media.robertsspaceindustries.com/8fe0j96y8p1nc/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/vhfc4vdwon5x7/subscribers_vault_thumbnail.jpg",
+          "title": "Pyro RYT \"Hurston\" Multi-Tool",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": null,
+          "title": "Falston Jumpsuit “Hurston Edition”",
+          "kind": null
+        },
+        { "image": null, "title": "Hurston Hat", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=101&pagesize=1"
+    },
+    {
+      "id": "2121c2165ce914b7e021217b811gh3045be62121f902121a873116269e5d6f21",
+      "name": "Artimex Armor - Chairman’s Club Edition",
+      "value": 0,
+      "createdDate": "July 16, 2025",
+      "containsInfo": "4 items",
+      "image": "https://media.robertsspaceindustries.com/p7ttzayo1vea8/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": null,
+          "title": "Artimex Armor Legs - Chairman’s Club Edition",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Artimex Armor Helmet - Chairman’s Club Edition",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Artimex Armor Core - Chairman’s Club Edition",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "Artimex Armor Arms - Chairman’s Club Edition",
+          "kind": null
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=102&pagesize=1"
+    },
+    {
+      "id": "2121c21bca09402b9821212be04gh888e76821212bc2121ccb687cc76dd98d21",
+      "name": "Pyro RYT Multi-Tool Set - Foundation Festival 2024 Reward",
+      "value": 0,
+      "createdDate": "July 16, 2025",
+      "containsInfo": "5 items",
+      "image": "https://media.robertsspaceindustries.com/ll3lt7g0p6ys1/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/rcjkclqqr8lj9/subscribers_vault_thumbnail.jpg",
+          "title": "TruHold Tractor Beam Attachment",
+          "kind": "FPS Equipment"
+        },
+        { "image": null, "title": "Mining attachment", "kind": null },
+        { "image": null, "title": "Cambio-Lite SRT Attachment", "kind": null },
+        {
+          "image": null,
+          "title": "Cambio-Lite SRT Attachment (can)",
+          "kind": null
+        },
+        { "image": null, "title": "Pyro RYT Multi-Tool", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=103&pagesize=1"
+    },
+    {
+      "id": "2121c210e2416a1e2d212159e6dgh0c321482121ece212193f08a8ae586d3e21",
+      "name": "Behring P4-AR Rifle - Foundation Festival 2024 Reward",
+      "value": 0,
+      "createdDate": "July 16, 2025",
+      "containsInfo": "Behring P4-AR",
+      "image": "https://media.robertsspaceindustries.com/7jwjcbshqj5tf/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://robertsspaceindustries.com/media/8tz5djdj43me5r/subscribers_vault_thumbnail/Marketing_Shot_P4AR.jpg",
+          "title": "Behring P4-AR",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=104&pagesize=1"
+    },
+    {
+      "id": "2121c214ece036782f21218a35fgh8bc3171212103721214ed2cf2e7d0ef8821",
+      "name": "Gemini LH86 Pistol - Foundation Festival 2024 Reward",
+      "value": 0,
+      "createdDate": "July 16, 2025",
+      "containsInfo": "Gemini LH86",
+      "image": "https://media.robertsspaceindustries.com/t0xrxcc5mcg07/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://robertsspaceindustries.com/media/ao8ywbboqgirkr/subscribers_vault_thumbnail/L86_atv_06.jpg",
+          "title": "Gemini LH86",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=105&pagesize=1"
+    },
+    {
+      "id": "2121c21cfaa59edbf421213a5acghe84616621214a42121b56529bb827e72921",
+      "name": "Arden-SL “Red Alert” Kit - Foundation Festival 2024 Reward",
+      "value": 0,
+      "createdDate": "July 16, 2025",
+      "containsInfo": "6 items",
+      "image": "https://media.robertsspaceindustries.com/gb6gomzrgp91z/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/p1ozuuopnnfxm/subscribers_vault_thumbnail.jpg",
+          "title": "Behring P8-SC \"Red Alert\" SMG",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/izuwtytlmh5q7/subscribers_vault_thumbnail.jpg",
+          "title": "RRS Arden-SL Red Alert Helmet",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/kn9br4vfhm2r6/subscribers_vault_thumbnail.jpg",
+          "title": "RRS Arden-SL Red Alert Core",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/9mahyy3vxqb7n/subscribers_vault_thumbnail.jpg",
+          "title": "RRS Arden-SL Red Alert Arms",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/vq5cq8x6o5oq8/subscribers_vault_thumbnail.jpg",
+          "title": "RRS Arden-SL Red Alert Legs",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": null,
+          "title": "RRS Arden-SL Red Alert Backpack",
+          "kind": null
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=106&pagesize=1"
+    },
+    {
+      "id": "2121c21e99010a546c2121cf25bgha7cad89212147421219aa4a15080f37a321",
+      "name": "Foundation Festival Hat Grey",
+      "value": 0,
+      "createdDate": "July 16, 2025",
+      "containsInfo": "Foundation Festival Grey Hat",
+      "image": "https://media.robertsspaceindustries.com/v2f2rvsx68yi3/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/v2f2rvsx68yi3/subscribers_vault_thumbnail.jpg",
+          "title": "Foundation Festival Grey Hat",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": true,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=107&pagesize=1"
+    },
+    {
+      "id": "2121c21e52ed692138212183240gh852c1bf2121ff4212143d6ba2fbdfa31e21",
+      "name": "Vulture - Foundation Festival Guide Reward",
+      "value": 0,
+      "createdDate": "July 16, 2025",
+      "containsInfo": "Vulture - Foundation Fest Paint",
+      "image": "https://media.robertsspaceindustries.com/kkvugctytziam/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/kkvugctytziam/subscribers_vault_thumbnail.jpg",
+          "title": "Vulture - Foundation Fest Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=108&pagesize=1"
+    },
+    {
+      "id": "2121c21f4652d2c82b2121da5bfghee1ac9d21216612121d440e8bb9853b2021",
+      "name": "VIP High Admiral",
+      "value": 0,
+      "createdDate": "July 15, 2025",
+      "containsInfo": "6 items",
+      "image": "https://robertsspaceindustries.com/media/vqn45y9zebzsvr/heap_infobox/Arclight2.png",
+      "itemsData": [
+        {
+          "image": "https://robertsspaceindustries.com/media/cpzukno99ysjlr/subscribers_vault_thumbnail/Concierge-_tophat.png",
+          "title": "Top Hat",
+          "kind": null
+        },
+        {
+          "image": "https://robertsspaceindustries.com/media/wjdhi6lwdrgoor/subscribers_vault_thumbnail/MOnocle.png",
+          "title": "Monocle",
+          "kind": null
+        },
+        {
+          "image": "https://robertsspaceindustries.com/media/gomngukj9o2prr/subscribers_vault_thumbnail/Hanagr_whiskey_2.png",
+          "title": "Radegast Whiskey 2947 Limited Edition",
+          "kind": "Hangar decoration"
+        },
+        {
+          "image": "https://robertsspaceindustries.com/media/vqn45y9zebzsvr/subscribers_vault_thumbnail/Arclight2.png",
+          "title": "K&W: Arclight II Laser Pistol Gold",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/mf6miih3t8z1p/subscribers_vault_thumbnail.jpg",
+          "title": "Star Citizen Digital Download",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "H-DECO - Jacopo Top Hat & Monocle",
+          "kind": null
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=109&pagesize=1"
+    },
+    {
+      "id": "2121c21c4a01a34cbf212155a2bgh053af212121a0b21219f0bc529c8445e721",
+      "name": "Cuddly Cargo Collection",
+      "value": 0,
+      "createdDate": "July 01, 2025",
+      "containsInfo": "6 items",
+      "image": "https://media.robertsspaceindustries.com/2r1fdf3zvgtgn/heap_infobox.jpg",
+      "itemsData": [
+        { "image": null, "title": "UDM Cargo Plushie", "kind": null },
+        { "image": null, "title": "Red Wind Cargo Plushie", "kind": null },
+        { "image": null, "title": "Covalex Cargo Plushie", "kind": null },
+        { "image": null, "title": "TABA Cargo Plushie", "kind": null },
+        { "image": null, "title": "Ling Cargo Plushie", "kind": null },
+        { "image": null, "title": "ITG Cargo Plushie", "kind": null }
+      ],
+      "gifteable": true,
+      "exchangeable": true,
+      "category": "flair",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=110&pagesize=1"
+    },
+    {
+      "id": "2121c21aa0b1aa77b7212118affgh68d13c421215ce2121feafa213a402f3621",
+      "name": "ASD Bomber Jacket",
+      "value": 0,
+      "createdDate": "June 03, 2025",
+      "containsInfo": "ASD Bomber Jacket",
+      "image": "https://media.robertsspaceindustries.com/3c26eqt5jf4ee/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/3c26eqt5jf4ee/subscribers_vault_thumbnail.jpg",
+          "title": "ASD Bomber Jacket",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": true,
+      "exchangeable": true,
+      "category": "flair",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=111&pagesize=1"
+    },
+    {
+      "id": "2121c2133217a1da462121fc9afgh14f86292121132212123d13d207f9be4921",
+      "name": "UEE Training Mission - Future Navy Pilot T-Shirt Reward",
+      "value": 0,
+      "createdDate": "May 28, 2025",
+      "containsInfo": "Future Navy Pilot T-Shirt",
+      "image": "https://media.robertsspaceindustries.com/4wcjwegpz3xc8/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/4wcjwegpz3xc8/subscribers_vault_thumbnail.jpg",
+          "title": "Future Navy Pilot T-Shirt",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=112&pagesize=1"
+    },
+    {
+      "id": "2121c2125f8184ae7b2121b3defgh3836b1b212179e21216f8fef486a8b64021",
+      "name": "Gear - Invictus Launch Week Coin",
+      "value": 0,
+      "createdDate": "May 27, 2025",
+      "containsInfo": "Invictus Launch Week Coin",
+      "image": "https://media.robertsspaceindustries.com/iu84av05hbka1/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/iu84av05hbka1/subscribers_vault_thumbnail.jpg",
+          "title": "Invictus Launch Week Coin",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": true,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=113&pagesize=1"
+    },
+    {
+      "id": "2121c21318e6dee5a12121085c6gh430e9f621210e52121d31ac48840885ac21",
+      "name": "Hunt the Polaris - Salvaged Polaris Captain's Chair Reward",
+      "value": 0,
+      "createdDate": "May 13, 2025",
+      "containsInfo": "Salvaged Polaris Captain's Chair",
+      "image": "https://cdn.robertsspaceindustries.com/static/images/Temp/default-image.png",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/z3s47zio4ayue/subscribers_vault_thumbnail.jpg",
+          "title": "Salvaged Polaris Captain's Chair",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=114&pagesize=1"
+    },
+    {
+      "id": "2121c21724b1ec3c272121c2ddaghaf1811f2121d442121c062d9061907e2b21",
+      "name": "Wikelo Emporium Jacket",
+      "value": 0,
+      "createdDate": "April 01, 2025",
+      "containsInfo": "Wikelo Emporium Jacket",
+      "image": "https://media.robertsspaceindustries.com/6y5anbcsdq5u9/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/6y5anbcsdq5u9/subscribers_vault_thumbnail.jpg",
+          "title": "Wikelo Emporium Jacket",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": true,
+      "exchangeable": true,
+      "category": "flair",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=115&pagesize=1"
+    },
+    {
+      "id": "2121c21ff0da7f074021212af9dghce37e6321217f22121f39d2c606cd198821",
+      "name": "Outcast Paint Pack",
+      "value": 0,
+      "createdDate": "March 15, 2025",
+      "containsInfo": "3 items",
+      "image": "https://media.robertsspaceindustries.com/mobr6nkptbqg8/heap_infobox.jpg",
+      "itemsData": [
+        { "image": null, "title": "Vulture - Outcast Paint", "kind": null },
+        { "image": null, "title": "Prospector - Outcast Paint", "kind": null },
+        { "image": null, "title": "Fortune - Outcast Paint", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=116&pagesize=1"
+    },
+    {
+      "id": "2121c21b10a1a0f3802121ae4b6gh5a8ba332121b3e2121424918894ac207921",
+      "name": "Ravager-212 \"Outcast\" Twin Shotgun",
+      "value": 0,
+      "createdDate": "March 15, 2025",
+      "containsInfo": "Ravager-212 \"Outcast\" Twin Shotgun",
+      "image": "https://media.robertsspaceindustries.com/1onuwlca4ideh/heap_infobox.png",
+      "itemsData": [
+        {
+          "image": null,
+          "title": "Ravager-212 \"Outcast\" Twin Shotgun",
+          "kind": null
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=117&pagesize=1"
+    },
+    {
+      "id": "2121c21928a22b4dfa2121861b4gh114a1af212104d21210811e038d7f155621",
+      "name": "Pyro Resupply Commemorative Display",
+      "value": 0,
+      "createdDate": "March 14, 2025",
+      "containsInfo": "Pyro Resupply Commemorative Display",
+      "image": "https://media.robertsspaceindustries.com/noma1atafvrwm/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": null,
+          "title": "Pyro Resupply Commemorative Display",
+          "kind": null
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=118&pagesize=1"
+    },
+    {
+      "id": "2121c21f76b880399a2121522b0gh9be51c3212144c2121177c3b9c688c03d21",
+      "name": "Hazardous Cargo Chair",
+      "value": 0,
+      "createdDate": "March 04, 2025",
+      "containsInfo": "Hazardous Cargo Chair",
+      "image": "https://media.robertsspaceindustries.com/0y0ehzynb6mhf/heap_infobox.jpg",
+      "itemsData": [
+        { "image": null, "title": "Hazardous Cargo Chair", "kind": null }
+      ],
+      "gifteable": true,
+      "exchangeable": true,
+      "category": "flair",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=119&pagesize=1"
+    },
+    {
+      "id": "2121c217e7bc0d7bc221213cc80gh370fea621218c02121c8f8e8f42ad10a321",
+      "name": "Big Winner T-Shirt",
+      "value": 0,
+      "createdDate": "March 04, 2025",
+      "containsInfo": "Big Winner T-Shirt",
+      "image": "https://media.robertsspaceindustries.com/i600gc06dk0b2/heap_infobox.jpg",
+      "itemsData": [
+        { "image": null, "title": "Big Winner T-Shirt", "kind": null }
+      ],
+      "gifteable": true,
+      "exchangeable": true,
+      "category": "flair",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=120&pagesize=1"
+    },
+    {
+      "id": "2121c21d18fb9518cd2121789f4gh1d6aca821215822121a24a35c5363843521",
+      "name": "Year of the Pig Envelope",
+      "value": 0,
+      "createdDate": "February 18, 2025",
+      "containsInfo": "Year of the Pig Envelope",
+      "image": "https://media.robertsspaceindustries.com/jorpc9rrbwde6/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/jorpc9rrbwde6/subscribers_vault_thumbnail.jpg",
+          "title": "Year of the Pig Envelope",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": true,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=121&pagesize=1"
+    },
+    {
+      "id": "2121c214e4403b427921211f065gh326010321218f8212101e219ce68860bb21",
+      "name": "Ripper - SMG",
+      "value": 0,
+      "createdDate": "February 12, 2025",
+      "containsInfo": "Ripper SMG",
+      "image": "https://media.robertsspaceindustries.com/38nylra7bolwu/heap_infobox.png",
+      "itemsData": [{ "image": null, "title": "Ripper SMG", "kind": null }],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=122&pagesize=1"
+    },
+    {
+      "id": "2121c21a620b0d45ed212185f07gh0dc0c7b2121cef2121d8229dbbf03d30021",
+      "name": "Coramor '55 Loveseat",
+      "value": 0,
+      "createdDate": "February 12, 2025",
+      "containsInfo": "Coramor '55 Loveseat",
+      "image": "https://media.robertsspaceindustries.com/w6khv8tsi8ogv/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/w6khv8tsi8ogv/subscribers_vault_thumbnail.jpg",
+          "title": "Coramor '55 Loveseat",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": true,
+      "exchangeable": true,
+      "category": "flair",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=123&pagesize=1"
+    },
+    {
+      "id": "2121c215b73f2ea4582121aaeecghfbb163f2121f1921211403c0255e2a43c21",
+      "name": "Red Heart Plushie Cushion Set",
+      "value": 0,
+      "createdDate": "February 12, 2025",
+      "containsInfo": "2 items",
+      "image": "https://media.robertsspaceindustries.com/pgj5evwn9apeb/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/1j3o3t7sto9mf/subscribers_vault_thumbnail.jpg",
+          "title": "Red Heart Plushie",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/1j3o3t7sto9mf/subscribers_vault_thumbnail.jpg",
+          "title": "Red Heart Plushie",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": true,
+      "exchangeable": true,
+      "category": "flair",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=124&pagesize=1"
+    },
+    {
+      "id": "2121c2174d954d08dd21217f5a9ghc094a562121f6e21210fb88c039ffafb821",
+      "name": "IAE 2954 Gear Pack",
+      "value": 0,
+      "createdDate": "February 06, 2025",
+      "containsInfo": "4 items",
+      "image": "https://media.robertsspaceindustries.com/97wsj4xbltrz9/heap_infobox.jpg",
+      "itemsData": [
+        { "image": null, "title": "IAE 2954 T-Shirt Purple", "kind": null },
+        { "image": null, "title": "IAE 2954 Hat Purple", "kind": null },
+        { "image": null, "title": "IAE 2954 T-Shirt White", "kind": null },
+        { "image": null, "title": "IAE 2954 Hat White", "kind": null }
+      ],
+      "gifteable": true,
+      "exchangeable": true,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=125&pagesize=1"
+    },
+    {
+      "id": "2121c2112db21f888c21219effagh40a4a32212123b212165dd93c55f8a2b921",
+      "name": "Luminalia 2954 Day 11",
+      "value": 0,
+      "createdDate": "December 22, 2024",
+      "containsInfo": "Pico the Penguin Party Animal Orange Plushie",
+      "image": "https://media.robertsspaceindustries.com/lfcvpfo1xejmb/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://robertsspaceindustries.com/media/csdt20zhmdhh1r/subscribers_vault_thumbnail/Star_Citizen_Luminalia_2024_Advent_36-41_Day_11.jpg",
+          "title": "Pico the Penguin Party Animal Orange Plushie",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=126&pagesize=1"
+    },
+    {
+      "id": "2121c21cfedb47d20021214b422gh57251dc212114a2121b9c594c76130b1121",
+      "name": "Luminalia 2954 Day 10",
+      "value": 0,
+      "createdDate": "December 22, 2024",
+      "containsInfo": "BR-2 \"Permafrost\" Shotgun",
+      "image": "https://media.robertsspaceindustries.com/s9fagqmvnjuqw/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/s9fagqmvnjuqw/subscribers_vault_thumbnail.jpg",
+          "title": "BR-2 \"Permafrost\" Shotgun",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=127&pagesize=1"
+    },
+    {
+      "id": "2121c213af84016d5921217b51egh23d00032121ec62121db394a3eb7a64c421",
+      "name": "Luminalia 2954 Day 9",
+      "value": 0,
+      "createdDate": "December 22, 2024",
+      "containsInfo": "2 items",
+      "image": "https://media.robertsspaceindustries.com/q96mk0ck56hro/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/q96mk0ck56hro/subscribers_vault_thumbnail.jpg",
+          "title": "Gladius - Deck the Hull Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/gxs59n4y5w922/subscribers_vault_thumbnail.jpg",
+          "title": "Gladius - IceBreak Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=128&pagesize=1"
+    },
+    {
+      "id": "2121c210225419caaf212147f86ghd1c175621215322121f6b22902dff300a21",
+      "name": "Luminalia 2954 Day 8",
+      "value": 0,
+      "createdDate": "December 19, 2024",
+      "containsInfo": "Karna \"Brimstone\" Rifle",
+      "image": "https://media.robertsspaceindustries.com/lc8cy4r7sw589/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/lc8cy4r7sw589/subscribers_vault_thumbnail.jpg",
+          "title": "Karna \"Brimstone\" Rifle",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=129&pagesize=1"
+    },
+    {
+      "id": "2121c21b44ef38b5132121b7cf9gh29c516521215162121845de2f30c1be8221",
+      "name": "Luminalia 2954 Day 7",
+      "value": 0,
+      "createdDate": "December 19, 2024",
+      "containsInfo": "2 items",
+      "image": "https://media.robertsspaceindustries.com/y8a7bxpjqj4oa/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/y8a7bxpjqj4oa/subscribers_vault_thumbnail.jpg",
+          "title": "Ursa - Deck the Hull Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/vrlpb54e2mis4/subscribers_vault_thumbnail.jpg",
+          "title": "Ursa - IceBreak Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=130&pagesize=1"
+    },
+    {
+      "id": "2121c21c1c0ecf72df2121678e1gh1dac8a421216f921216052c9282169a4d21",
+      "name": "Luminalia 2954 Day 6",
+      "value": 0,
+      "createdDate": "December 19, 2024",
+      "containsInfo": "Coda “Ultraviolet” Pistol",
+      "image": "https://media.robertsspaceindustries.com/5ewkg5297ac05/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/5ewkg5297ac05/subscribers_vault_thumbnail.jpg",
+          "title": "Coda “Ultraviolet” Pistol",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=131&pagesize=1"
+    },
+    {
+      "id": "2121c215939394e31d21214baccgh7ed901e2121d722121ab9df03e84eafb721",
+      "name": "Luminalia 2954 Day 5",
+      "value": 0,
+      "createdDate": "December 16, 2024",
+      "containsInfo": "2 items",
+      "image": "https://media.robertsspaceindustries.com/i2jz14tui7312/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/i2jz14tui7312/subscribers_vault_thumbnail.jpg",
+          "title": "400i - Deck the Hull Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/5ewvdszy6dreo/subscribers_vault_thumbnail.jpg",
+          "title": "400i - IceBreak Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=132&pagesize=1"
+    },
+    {
+      "id": "2121c215b3954cf859212194957gh3ed80fb21210922121880e30e61eaf91121",
+      "name": "Luminalia 2954 Day 4",
+      "value": 0,
+      "createdDate": "December 15, 2024",
+      "containsInfo": "LH86 “Permafrost” Pistol",
+      "image": "https://media.robertsspaceindustries.com/n98ois7f88n90/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/n98ois7f88n90/subscribers_vault_thumbnail.jpg",
+          "title": "LH86 “Permafrost” Pistol",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=133&pagesize=1"
+    },
+    {
+      "id": "2121c216c8daab647f2121d463egh453a43b21211e82121bbdcbf60f1c93d821",
+      "name": "Luminalia 2954 Day 3",
+      "value": 0,
+      "createdDate": "December 15, 2024",
+      "containsInfo": "2 items",
+      "image": "https://media.robertsspaceindustries.com/bah601ecbjiy7/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/bah601ecbjiy7/subscribers_vault_thumbnail.jpg",
+          "title": "Archimedes & Merlin - Deck the Hull Paint",
+          "kind": "Skin"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/7t7brxcrarmr2/subscribers_vault_thumbnail.jpg",
+          "title": "Archimedes & Merlin - IceBreak Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=134&pagesize=1"
+    },
+    {
+      "id": "2121c21facb0ab4ec82121f3c9dghd2305c421215ab2121077e1526db0629821",
+      "name": "Luminalia 2954 Day 2",
+      "value": 0,
+      "createdDate": "December 14, 2024",
+      "containsInfo": "Karna “Alpine Sunset” Rifle",
+      "image": "https://media.robertsspaceindustries.com/kb9vr42uhkn2w/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/kb9vr42uhkn2w/subscribers_vault_thumbnail.jpg",
+          "title": "Karna “Alpine Sunset” Rifle",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=135&pagesize=1"
+    },
+    {
+      "id": "2121c21806055ba0192121bd175gh18a172e21219ac212119675fdf8a7431021",
+      "name": "2954 BIS F8C Lightning Pennant",
+      "value": 0,
+      "createdDate": "December 03, 2024",
+      "containsInfo": "Ship Showdown Flag",
+      "image": "https://media.robertsspaceindustries.com/upbj2g3fbbtse/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/upbj2g3fbbtse/subscribers_vault_thumbnail.jpg",
+          "title": "Ship Showdown Flag",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=136&pagesize=1"
+    },
+    {
+      "id": "2121c214f04d97cec22121a65ebghd7358a321217a22121fc759ebc542dad021",
+      "name": "Year of the Dog Envelope",
+      "value": 0,
+      "createdDate": "February 27, 2024",
+      "containsInfo": "Year of the Dog Envelope",
+      "image": "https://media.robertsspaceindustries.com/e2haep7ahdo88/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/e2haep7ahdo88/subscribers_vault_thumbnail.jpg",
+          "title": "Year of the Dog Envelope",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": true,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=137&pagesize=1"
+    },
+    {
+      "id": "2121c2194adfc5a7212121c6473ghba00eb021217c52121d5197640e4dfc9621",
+      "name": "Year of the Horse Envelope",
+      "value": 0,
+      "createdDate": "February 25, 2023",
+      "containsInfo": "Year of the Horse Envelope",
+      "image": "https://media.robertsspaceindustries.com/41m97uicfy67j/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/41m97uicfy67j/subscribers_vault_thumbnail.jpg",
+          "title": "Year of the Horse Envelope",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=138&pagesize=1"
+    },
+    {
+      "id": "2121c214202dcceb6121213b661gh825d9e521211672121553682325224c8321",
+      "name": "Year of the Ram Envelope",
+      "value": 0,
+      "createdDate": "February 17, 2023",
+      "containsInfo": "Year of the Ram Envelope",
+      "image": "https://media.robertsspaceindustries.com/dmzkrdg0t9ubv/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/dmzkrdg0t9ubv/subscribers_vault_thumbnail.jpg",
+          "title": "Year of the Ram Envelope",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=139&pagesize=1"
+    },
+    {
+      "id": "2121c213e76a049d6e2121385d3ghf3f263221218bb212161c9f6b332a074f21",
+      "name": "Year of the Monkey Envelope",
+      "value": 0,
+      "createdDate": "February 09, 2023",
+      "containsInfo": "Year of the Monkey Envelope",
+      "image": "https://media.robertsspaceindustries.com/2x0yrxa8g74tv/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/2x0yrxa8g74tv/subscribers_vault_thumbnail.jpg",
+          "title": "Year of the Monkey Envelope",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=140&pagesize=1"
+    },
+    {
+      "id": "2121c21fb0831568282121aa00fgh58c92c021214c72121045ef734d4bbf8a21",
+      "name": "Luminalia 2952 Day 3 Advent Item",
+      "value": 0,
+      "createdDate": "December 13, 2022",
+      "containsInfo": "3 items",
+      "image": "https://media.robertsspaceindustries.com/kab9qahtagoe5/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/9nrprs17ljxl6/subscribers_vault_thumbnail.jpg",
+          "title": "One Light Undersuit Red",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/pxay3rurc2ib7/subscribers_vault_thumbnail.jpg",
+          "title": "One Light Undersuit Teal",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/v9d009kqk3kzy/subscribers_vault_thumbnail.jpg",
+          "title": "One Light Undersuit Blue",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=141&pagesize=1"
+    },
+    {
+      "id": "2121c213469adcb29721212f832gh1b3a1bb212197621213766645b3e34cc021",
+      "name": "Best in Show '52 ",
+      "value": 0,
+      "createdDate": "December 08, 2022",
+      "containsInfo": "3 items",
+      "image": "https://media.robertsspaceindustries.com/nfzk580xcrt3x/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/igjjs46p96c2x/subscribers_vault_thumbnail.jpg",
+          "title": "Carrack '2952 Best in Show' Miniature",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/czbjwinvq2ued/subscribers_vault_thumbnail.jpg",
+          "title": "Ship Showdown '52 Coin",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/2veizq0nt98kf/subscribers_vault_thumbnail.jpg",
+          "title": "Carrack '2952 Best in Show' Model",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=142&pagesize=1"
+    },
+    {
+      "id": "2121c2175f0968ea3321218efc5ghb4ccad52121585212115f419260adb96f21",
+      "name": "CitizenCon 2952 Digital Goodies",
+      "value": 0,
+      "createdDate": "October 12, 2022",
+      "containsInfo": "4 items",
+      "image": "https://media.robertsspaceindustries.com/69527lx46qrh3/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/syfe0vax1y8zy/subscribers_vault_thumbnail.jpg",
+          "title": "Falston Jumpsuit “Shubin Edition”",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/0nj5hynvamdjy/subscribers_vault_thumbnail.jpg",
+          "title": "Cuesta Shoes",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/a9t3dsqc4uvny/subscribers_vault_thumbnail.jpg",
+          "title": "GP-33 MOD \"Umber\" Grenade Launcher",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/2ystwj8navc13/subscribers_vault_thumbnail.jpg",
+          "title": "Francis the Party Animal Plushie",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=143&pagesize=1"
+    },
+    {
+      "id": "2121c2138a9059a77b2121ff561ghd7bfe2b21217f7212168592e1bada902921",
+      "name": "Digital Goodies Pack - Luminalia Day 12",
+      "value": 0,
+      "createdDate": "December 23, 2021",
+      "containsInfo": "Reveal-Wallpaper",
+      "image": "https://media.robertsspaceindustries.com/upck8u801e4vs/heap_infobox.png",
+      "itemsData": [
+        { "image": null, "title": "Reveal-Wallpaper", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": true,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=144&pagesize=1"
+    },
+    {
+      "id": "2121c21064a0ae5d862121dceefgh412eaa82121622212184938016e372e4321",
+      "name": "Digital Goodies Pack - Luminalia Day 11",
+      "value": 0,
+      "createdDate": "December 21, 2021",
+      "containsInfo": "Caterpillar - IceBreak Paint",
+      "image": "https://media.robertsspaceindustries.com/qvoa4clbhpioy/heap_infobox.jpg",
+      "itemsData": [
+        { "image": null, "title": "Caterpillar - IceBreak Paint", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": true,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=145&pagesize=1"
+    },
+    {
+      "id": "2121c2162b9cdc96872121a5e5egh49fda722121ec32121ad1d9b057468ce421",
+      "name": "Digital Goodies Pack - Luminalia Day 10",
+      "value": 0,
+      "createdDate": "December 20, 2021",
+      "containsInfo": "Enjakte Knife",
+      "image": "https://media.robertsspaceindustries.com/9zk65bqqaehya/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/9zk65bqqaehya/subscribers_vault_thumbnail.jpg",
+          "title": "Enjakte Knife",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": true,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=146&pagesize=1"
+    },
+    {
+      "id": "2121c2129a29f6fe66212182956ghec3694e21219af2121aa391a77b221a3821",
+      "name": "Digital Goodies Pack - Luminalia Day 09",
+      "value": 0,
+      "createdDate": "December 19, 2021",
+      "containsInfo": "Luminalia-Wallpaper",
+      "image": "https://media.robertsspaceindustries.com/7tqroee0qycbp/heap_infobox.png",
+      "itemsData": [
+        { "image": null, "title": "Luminalia-Wallpaper", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": true,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=147&pagesize=1"
+    },
+    {
+      "id": "2121c21defeedcdc0421215569egh8a0e5392121a1e2121e485c2ce593deb121",
+      "name": "Digital Goodies Pack - Luminalia Day 08",
+      "value": 0,
+      "createdDate": "December 18, 2021",
+      "containsInfo": "Spectrum-Badge",
+      "image": "https://robertsspaceindustries.com/media/5jgfvx0btmklpr/heap_infobox/Luminalia_Banu-SKU.png",
+      "itemsData": [{ "image": null, "title": "Spectrum-Badge", "kind": null }],
+      "gifteable": false,
+      "exchangeable": true,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=148&pagesize=1"
+    },
+    {
+      "id": "2121c21ef2b8c0e5e821219ffedghed17f282121fe421212ac3ae822eb7f4221",
+      "name": "Digital Goodies Pack - Luminalia Day 07",
+      "value": 0,
+      "createdDate": "December 17, 2021",
+      "containsInfo": "Aurora Mk I - IceBreak Paint",
+      "image": "https://media.robertsspaceindustries.com/7h5a1u0wodht5/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/1noa31fd1anay/subscribers_vault_thumbnail.jpg",
+          "title": "Aurora Mk I - IceBreak Paint",
+          "kind": "Skin"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": true,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=149&pagesize=1"
+    },
+    {
+      "id": "2121c21a3313009bd921212ce79gh9376af12121a7721214ebf2d07840c0ff21",
+      "name": "Digital Goodies Pack - Luminalia Day 06",
+      "value": 0,
+      "createdDate": "December 17, 2021",
+      "containsInfo": "Sneak-Peek",
+      "image": "https://media.robertsspaceindustries.com/yjbrwt1bdm5wg/heap_infobox.png",
+      "itemsData": [{ "image": null, "title": "Sneak-Peek", "kind": null }],
+      "gifteable": false,
+      "exchangeable": true,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=150&pagesize=1"
+    },
+    {
+      "id": "2121c21fa01bdee66f21219ab9dgh3d18f2a21219ca2121fae10c179660ecc21",
+      "name": "Digital Goodies Pack - Luminalia Day 05",
+      "value": 0,
+      "createdDate": "December 15, 2021",
+      "containsInfo": "Caterpillar - Deck the Hull Paint",
+      "image": "https://media.robertsspaceindustries.com/an7ikjpyk33vw/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": null,
+          "title": "Caterpillar - Deck the Hull Paint",
+          "kind": null
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=151&pagesize=1"
+    },
+    {
+      "id": "2121c21f791f0c27cc21215e863gh3e4bd0e2121003212109e2595098829cd21",
+      "name": "Digital Goodies Pack - Luminalia Day 04",
+      "value": 0,
+      "createdDate": "December 14, 2021",
+      "containsInfo": "Mustang - IceBreak Paint",
+      "image": "https://media.robertsspaceindustries.com/6qezfios1m2ob/heap_infobox.jpg",
+      "itemsData": [
+        { "image": null, "title": "Mustang - IceBreak Paint", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=152&pagesize=1"
+    },
+    {
+      "id": "2121c2111f5f438c68212183bffghc3eaf0421215952121b546ab17cc3f58221",
+      "name": "Digital Goodies Pack - Luminalia Day 01",
+      "value": 0,
+      "createdDate": "December 14, 2021",
+      "containsInfo": "Luminalia Sweater",
+      "image": "https://media.robertsspaceindustries.com/bjj07nfdcfbzs/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/bjj07nfdcfbzs/subscribers_vault_thumbnail.jpg",
+          "title": "Luminalia Sweater",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=153&pagesize=1"
+    },
+    {
+      "id": "2121c2150bc0f44e422121a2294gh7430ad921217e621210c13d4b3ea61e9b21",
+      "name": "Digital Goodies Pack - Luminalia Day 02",
+      "value": 0,
+      "createdDate": "December 14, 2021",
+      "containsInfo": "Spectrum-Badge",
+      "image": "https://robertsspaceindustries.com/media/a0118kmtactsfr/heap_infobox/Luminalia_Spectrum-SKU.png",
+      "itemsData": [{ "image": null, "title": "Spectrum-Badge", "kind": null }],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=154&pagesize=1"
+    },
+    {
+      "id": "2121c21fc2a808ce7021210afbcgh1e6761721219ff2121b947625d2f469f421",
+      "name": "Digital Goodies Pack - Luminalia Day 03",
+      "value": 0,
+      "createdDate": "December 14, 2021",
+      "containsInfo": "Luminalia-Wallpaper",
+      "image": "https://media.robertsspaceindustries.com/19lbt8u3fyppf/heap_infobox.png",
+      "itemsData": [
+        { "image": null, "title": "Luminalia-Wallpaper", "kind": null }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=155&pagesize=1"
+    },
+    {
+      "id": "2121c219df01bc63052121ae2f2ghe22a578212110521210880addc89d532c21",
+      "name": "Cataby Backpack MPUV-1C Edition",
+      "value": 0,
+      "createdDate": "November 30, 2021",
+      "containsInfo": "Cataby Backpack MPUV-1C Edition",
+      "image": "https://media.robertsspaceindustries.com/jisv6ke8i3tx0/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/jisv6ke8i3tx0/subscribers_vault_thumbnail.jpg",
+          "title": "Cataby Backpack MPUV-1C Edition",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=156&pagesize=1"
+    },
+    {
+      "id": "2121c2146e0aa5e24c21214658bgh70186532121f9e2121841ae9744f7ee0d21",
+      "name": "CitizenCon 2951 Digital Goodies ",
+      "value": 0,
+      "createdDate": "October 12, 2021",
+      "containsInfo": "7 items",
+      "image": "https://media.robertsspaceindustries.com/wxzhumjro2rqj/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/sek9dtabbt4mg/subscribers_vault_thumbnail.jpg",
+          "title": "CitizenCon 2951 Trophy",
+          "kind": "Hangar decoration"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/k6tg51scoh2nr/subscribers_vault_thumbnail.jpg",
+          "title": "RRS Knife - Fallout",
+          "kind": "FPS Equipment"
+        },
+        { "image": null, "title": "Arden-SL Core Balefire", "kind": null },
+        { "image": null, "title": "Arden-SL Helmet Balefire", "kind": null },
+        { "image": null, "title": "Arden-SL Legs Balefire", "kind": null },
+        { "image": null, "title": "Arden-CL Backpack Balefire", "kind": null },
+        { "image": null, "title": "Arden-SL Arms Balefire", "kind": null }
+      ],
+      "gifteable": true,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=157&pagesize=1"
+    },
+    {
+      "id": "2121c21f29b5577b352121564e3gh2deabfa212177d2121edeac8051005aff21",
+      "name": "2950 BIS Carrack Helmet",
+      "value": 0,
+      "createdDate": "December 03, 2020",
+      "containsInfo": "Venture Helmet Carrack Edition",
+      "image": "https://media.robertsspaceindustries.com/mbbhuec4y6w2z/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/xfmytyauul3jj/subscribers_vault_thumbnail.jpg",
+          "title": "Venture Helmet Carrack Edition",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=158&pagesize=1"
+    },
+    {
+      "id": "2121c218f09b9979d22121d15a2gh810455521219cb2121d4d42610ccfbde521",
+      "name": "300 Million Reward",
+      "value": 0,
+      "createdDate": "October 09, 2020",
+      "containsInfo": "300M Commemorative S-38 'One Empire' Pistol",
+      "image": "https://media.robertsspaceindustries.com/4so4llh4clt0t/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/4so4llh4clt0t/subscribers_vault_thumbnail.jpg",
+          "title": "300M Commemorative S-38 'One Empire' Pistol",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=159&pagesize=1"
+    },
+    {
+      "id": "2121c2171ce721796b2121c353eghbe54db121215b821210cfc35683e3cd9721",
+      "name": "Star Citizen Birthday Goodies Pack",
+      "value": 0,
+      "createdDate": "October 08, 2020",
+      "containsInfo": "4 items",
+      "image": "https://media.robertsspaceindustries.com/k5dpvkdhdu5dz/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/0no06iynuujxh/subscribers_vault_thumbnail.jpg",
+          "title": "Lamont Undersuit",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/x0f33rlntsshy/subscribers_vault_thumbnail.jpg",
+          "title": "Odyssey II Helmet Obsidian",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/dvf8gnmsu50ih/subscribers_vault_thumbnail.jpg",
+          "title": "Pico the Penguin Party Animal Green",
+          "kind": "FPS Equipment"
+        },
+        {
+          "image": "https://media.robertsspaceindustries.com/5euzl8w5xr9k3/subscribers_vault_thumbnail.jpg",
+          "title": "Arclight \"Glimmer\" Energy Pistol",
+          "kind": "FPS Equipment"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=160&pagesize=1"
+    },
+    {
+      "id": "2121c21dc142f5260921215cbeagh75e59592121d6c2121655138d9748dbea21",
+      "name": "Drake Caterpillar Statue",
+      "value": 0,
+      "createdDate": "December 09, 2019",
+      "containsInfo": "Drake Caterpillar Statue",
+      "image": "https://media.robertsspaceindustries.com/bhe2lhdls92pl/heap_infobox.jpg",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/bhe2lhdls92pl/subscribers_vault_thumbnail.jpg",
+          "title": "Drake Caterpillar Statue",
+          "kind": "Hangar decoration"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=161&pagesize=1"
+    },
+    {
+      "id": "2121c217997fc01721212144d40ghcc1dffe2121e2b2121e33aaab6edfb79021",
+      "name": "200 Million Commemorative Coin",
+      "value": 0,
+      "createdDate": "January 25, 2019",
+      "containsInfo": "200M Commemorative Coin",
+      "image": "https://media.robertsspaceindustries.com/rjbxu06rayieb/heap_infobox.png",
+      "itemsData": [
+        {
+          "image": "https://media.robertsspaceindustries.com/rjbxu06rayieb/subscribers_vault_thumbnail.png",
+          "title": "200M Commemorative Coin",
+          "kind": "Hangar decoration"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=162&pagesize=1"
+    },
+    {
+      "id": "2121c21151a52a7c71212109832ghc2b8a4c2121a29212149db3f1fe7aa21421",
+      "name": "Epoch Society T-Shirt ",
+      "value": 0,
+      "createdDate": "April 18, 2018",
+      "containsInfo": "Epoch Society T-Shirt",
+      "image": "https://robertsspaceindustries.com/media/qjmpm70qlodlcr/heap_infobox/Epoch-Society.jpg",
+      "itemsData": [
+        {
+          "image": "https://robertsspaceindustries.com/media/qjmpm70qlodlcr/subscribers_vault_thumbnail/Epoch-Society.jpg",
+          "title": "Epoch Society T-Shirt",
+          "kind": null
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=163&pagesize=1"
+    },
+    {
+      "id": "2121c21916aa547ebe212156ae9ghd6ef2672121ca621215955f60f456263021",
+      "name": "Aeon Club T-Shirt",
+      "value": 0,
+      "createdDate": "April 17, 2018",
+      "containsInfo": "Aeon Club T-shirt",
+      "image": "https://robertsspaceindustries.com/media/zad300qfj9mkwr/heap_infobox/Aeon-Club.jpg",
+      "itemsData": [
+        {
+          "image": "https://robertsspaceindustries.com/media/zad300qfj9mkwr/subscribers_vault_thumbnail/Aeon-Club.jpg",
+          "title": "Aeon Club T-shirt",
+          "kind": null
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=164&pagesize=1"
+    },
+    {
+      "id": "2121c21ae21c7dd19a2121f97aegh9bd966021213ae2121b60679808e66c2421",
+      "name": "Badger and Badges",
+      "value": 0,
+      "createdDate": "January 07, 2018",
+      "containsInfo": "6 items",
+      "image": "https://robertsspaceindustries.com/media/gby6d7q7qayfer/heap_infobox/01.jpg",
+      "itemsData": [
+        {
+          "image": "https://robertsspaceindustries.com/media/wc60yrioja0jtr/subscribers_vault_thumbnail/KLWE_S2_LaserRepeater.png",
+          "title": "CF-227 Badger (S2)",
+          "kind": "Component"
+        },
+        {
+          "image": "https://robertsspaceindustries.com/media/wc60yrioja0jtr/subscribers_vault_thumbnail/KLWE_S2_LaserRepeater.png",
+          "title": "CF-227 Badger (S2)",
+          "kind": "Component"
+        },
+        { "image": null, "title": "36th Fighter Wing Sq. Badge", "kind": null },
+        {
+          "image": null,
+          "title": "78th Squadron (Thundering Thorshu) Sq. Badge",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "214th Bravo Flight (Black Crows) Sq. Badge",
+          "kind": null
+        },
+        {
+          "image": null,
+          "title": "323 Aggressor \"No Quarter Given\" Sq. ...",
+          "kind": null
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=165&pagesize=1"
+    },
+    {
+      "id": "2121c216d453ea5c572121c6c02gh200bfa6212125121212ea673c26270de721",
+      "name": "Christmas Reward 2016!",
+      "value": 0,
+      "createdDate": "December 23, 2016",
+      "containsInfo": "Holiday Reward 2016",
+      "image": "https://robertsspaceindustries.com/media/dt48dgh3m6ezgr/heap_infobox/Holiday.jpg",
+      "itemsData": [
+        {
+          "image": "https://robertsspaceindustries.com/media/dt48dgh3m6ezgr/subscribers_vault_thumbnail/Holiday.jpg",
+          "title": "Holiday Reward 2016",
+          "kind": "Hangar decoration"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=166&pagesize=1"
+    },
+    {
+      "id": "2121c219eabcc2cb0e212170f19gh57e46ee2121df621211e09d489d5111bd21",
+      "name": "100M Reward - 2945 War Bond",
+      "value": 0,
+      "createdDate": "February 05, 2016",
+      "containsInfo": "2945 War Bond",
+      "image": "https://robertsspaceindustries.com/media/bq1i8q5bvspkhr/heap_infobox/100m_stretch_goal_warbond_2945.png",
+      "itemsData": [
+        {
+          "image": "https://robertsspaceindustries.com/media/bq1i8q5bvspkhr/subscribers_vault_thumbnail/100m_stretch_goal_warbond_2945.png",
+          "title": "2945 War Bond",
+          "kind": "Hangar decoration"
+        }
+      ],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=167&pagesize=1"
+    },
+    {
+      "id": "2121c2179f765c765621212dc5dgh94c412521212a721211db65e11f0cbf0f21",
+      "name": "Christmas Reward!",
+      "value": 0,
+      "createdDate": "December 18, 2015",
+      "containsInfo": "Holiday Wreath",
+      "image": "https://robertsspaceindustries.com/media/iszkoseg2oqkir/heap_infobox/Holidaywreathflair.png",
+      "itemsData": [{ "image": null, "title": "Holiday Wreath", "kind": null }],
+      "gifteable": false,
+      "exchangeable": false,
+      "category": "no_category",
+      "urlHangar": "https://robertsspaceindustries.com/en/account/pledges?page=168&pagesize=1"
+    }
+  ],
+  "myBuyBack": [
+    {
+      "id": "2121c2158eba251c22212138729gh7dd4f1d2121fe42121e496ed9a962aa1d21",
+      "name": "Paints - Hermes - Keystone Paint",
+      "image": "https://media.robertsspaceindustries.com/oj6a47tzibvef/heap_infobox.jpg",
+      "lastModification": "April 10, 2026",
+      "contained": "Hermes - Keystone Paint",
+      "elementData": {
+        "price": 11,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Hermes - Keystone Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=2&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21f0de28897542121418aegh36e240a21213622121e323bc026d4279f21",
+      "name": "Gear - Monde ‘Keystone’ Armor Set",
+      "image": "https://media.robertsspaceindustries.com/5f2yaft4j8x74/heap_infobox.jpg",
+      "lastModification": "April 10, 2026",
+      "contained": "5 items",
+      "elementData": {
+        "price": 15,
+        "shipInThisPackData": [],
+        "alsoContainData": [
+          "Monde Helmet Keystone",
+          "Monde Core Keystone",
+          "Monde Arms Keystone",
+          "Monde Legs Keystone",
+          "Warden Backpack Keystone"
+        ]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=3&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c2144dd764002a2121d380dgh9aaedb52121b212121fcd3a8e25fc55ba21",
+      "name": "Gear - Keystone Gear Pack",
+      "image": "https://media.robertsspaceindustries.com/epp8omy03jh9a/heap_infobox.jpg",
+      "lastModification": "April 10, 2026",
+      "contained": "6 items",
+      "elementData": {
+        "price": 17,
+        "shipInThisPackData": [],
+        "alsoContainData": [
+          "Monde Helmet Keystone",
+          "Monde Core Keystone",
+          "Monde Arms Keystone",
+          "Monde Legs Keystone",
+          "Warden Backpack Keystone",
+          "MaxLift \"Keystone\" Tractor Beam"
+        ]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=4&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c2196704636e1c2121e9fd9gh3b808aa2121b702121125304fa8522c8821",
+      "name": "Paints - Keystone Paint Collection",
+      "image": "https://media.robertsspaceindustries.com/ikfdmbrnie7hf/heap_infobox.jpg",
+      "lastModification": "April 10, 2026",
+      "contained": "8 items",
+      "elementData": {
+        "price": 47.6,
+        "shipInThisPackData": [],
+        "alsoContainData": [
+          "Hull B - Keystone Paint",
+          "UTV - Keystone Paint",
+          "RAFT - Keystone Paint",
+          "Hermes - Keystone Paint",
+          "ATLS - Keystone Paint",
+          "Golem - Keystone Paint",
+          "Prospector - Keystone Paint",
+          "MOLE - Keystone Paint"
+        ]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=5&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c2116c15ecfc492121d2779ghdb98d902121d4c2121f3c86db317d642a21",
+      "name": "Add-Ons - Aurora Mk II Cargo Module",
+      "image": "https://media.robertsspaceindustries.com/13atwtroj3vdw/heap_infobox.jpg",
+      "lastModification": "March 28, 2026",
+      "contained": "Aurora Mk II Cargo Module",
+      "elementData": {
+        "price": 10,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Aurora Mk II Cargo Module"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=8&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21629d5e6500a21218ee69gh2a4dc2e212133c212113d68123228b3b521",
+      "name": "Add-Ons - Aurora Mk II Combat Module",
+      "image": "https://media.robertsspaceindustries.com/4y694yez4fha3/heap_infobox.jpg",
+      "lastModification": "March 28, 2026",
+      "contained": "Aurora Mk II Combat Module",
+      "elementData": {
+        "price": 10,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Aurora Mk II Combat Module"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=9&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c2101de6e5fb5e2121c085bgh7fcf50f2121df921216d5c21660e72d3021",
+      "name": "Paints - Aurora Mk II - Obscurity Paint",
+      "image": "https://media.robertsspaceindustries.com/eyt5fi92fvnlo/heap_infobox.jpg",
+      "lastModification": "March 27, 2026",
+      "contained": "Aurora Mk II - Obscurity Paint",
+      "elementData": {
+        "price": 3,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Aurora Mk II - Obscurity Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=10&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21af12b40cc6e21211eddegh0bae4e321219fe2121102a6d7827038db21",
+      "name": "Paints - Aurora Mk II - Caspian Paint",
+      "image": "https://media.robertsspaceindustries.com/qn1uk60v6vmbt/heap_infobox.jpg",
+      "lastModification": "March 27, 2026",
+      "contained": "Aurora Mk II - Caspian Paint",
+      "elementData": {
+        "price": 3,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Aurora Mk II - Caspian Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=11&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21178c83c8e8a2121c3841gh839f7262121e8e2121505b16a299a057a21",
+      "name": "Paints - Aurora Mk II - 4 Paint Pack",
+      "image": "https://media.robertsspaceindustries.com/yhcnbwmjik3ms/heap_infobox.jpg",
+      "lastModification": "March 27, 2026",
+      "contained": "4 items",
+      "elementData": {
+        "price": 12.8,
+        "shipInThisPackData": [],
+        "alsoContainData": [
+          "Aurora Mk II - Shade Paint",
+          "Aurora Mk II - Caspian Paint",
+          "Aurora Mk II - Obscurity Paint",
+          "Aurora Mk II - Medallion Paint"
+        ]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=12&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c2171b2d8ca8732121d872bgha71fa432121d3921216f80dd8434a627f21",
+      "name": "Paints - Aurora Mk II - 5 Paint Pack",
+      "image": "https://media.robertsspaceindustries.com/rb6auei1gzkwa/heap_infobox.jpg",
+      "lastModification": "March 27, 2026",
+      "contained": "5 items",
+      "elementData": {
+        "price": 14.25,
+        "shipInThisPackData": [],
+        "alsoContainData": [
+          "Aurora Mk II - Cloudbuster Paint",
+          "Aurora Mk II - Shade Paint",
+          "Aurora Mk II - Caspian Paint",
+          "Aurora Mk II - Obscurity Paint",
+          "Aurora Mk II - Medallion Paint"
+        ]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=13&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c216b74bbcb9a021219b2b6gh0ab3f2521216de2121644ae5a6510892521",
+      "name": "Paints - Aurora Mk II - Shimmerscale Paint",
+      "image": "https://media.robertsspaceindustries.com/k12kqx72dy3p5/heap_infobox.jpg",
+      "lastModification": "March 27, 2026",
+      "contained": "Aurora Mk II - Shimmerscale Paint",
+      "elementData": {
+        "price": 5,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Aurora Mk II - Shimmerscale Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=14&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c2160938b083fb21211dc9fgh2fcf1a321213922121327594ff3603f4721",
+      "name": "Paints - Aurora Mk II - Medallion Paint",
+      "image": "https://media.robertsspaceindustries.com/zdgpb0c2wzrjz/heap_infobox.jpg",
+      "lastModification": "March 27, 2026",
+      "contained": "Aurora Mk II - Medallion Paint",
+      "elementData": {
+        "price": 5,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Aurora Mk II - Medallion Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=15&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c210ea9c2d9a5221212146dgh787c4002121689212116184b1454fccee21",
+      "name": "Paints - Hermes - Lockdown Paint",
+      "image": "https://media.robertsspaceindustries.com/y8tfwx6k92wcz/heap_infobox.jpg",
+      "lastModification": "February 01, 2026",
+      "contained": "Hermes - Lockdown Paint",
+      "elementData": {
+        "price": 7.5,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Hermes - Lockdown Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=27&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c214edb1827da521211c9d1gh9eacb0e2121dff2121a62fb1459a41e3b21",
+      "name": "Standalone Ships - Clipper",
+      "image": "https://media.robertsspaceindustries.com/8t2o7oawdb49e/heap_infobox.jpg",
+      "lastModification": "January 30, 2026",
+      "contained": "Clipper and 2 items",
+      "elementData": {
+        "price": 150,
+        "shipInThisPackData": [
+          {
+            "image": "https://media.robertsspaceindustries.com/8t2o7oawdb49e/store_hub_small.jpg",
+            "name": "Clipper"
+          }
+        ],
+        "alsoContainData": ["6 Month Insurance", "VFG Industrial Hangar"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=31&pagesize=1",
+      "available": true,
+      "category": "standalone_ship"
+    },
+    {
+      "id": "2121c2149be1bc04c6212185892ghb13341d2121a7421214af305ed6a5cfa221",
+      "name": "Paints - Polaris - Quasar Paint",
+      "image": "https://media.robertsspaceindustries.com/d7gdsqg5x09y3/heap_infobox.jpg",
+      "lastModification": "December 31, 2025",
+      "contained": "Polaris - Quasar Paint",
+      "elementData": {
+        "price": 22,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Polaris - Quasar Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=32&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21d9dbd5576142121eb58dgh9e6c57c2121e4f212173266a9253447e521",
+      "name": "Paints - Perseus - Resilient Paint  ",
+      "image": "https://media.robertsspaceindustries.com/e9g8dnzhy0j6u/heap_infobox.jpg",
+      "lastModification": "December 31, 2025",
+      "contained": "Perseus - Resilient Paint",
+      "elementData": {
+        "price": 16.5,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Perseus - Resilient Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=33&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c217a48e80c2fc2121b4145gh3df39872121f5821210a38def7ae928a521",
+      "name": "Standalone Ships - Hull A",
+      "image": "https://media.robertsspaceindustries.com/qtcdcfwccgze0/heap_infobox.jpg",
+      "lastModification": "November 16, 2025",
+      "contained": "Hull A and 2 items",
+      "elementData": {
+        "price": 90,
+        "shipInThisPackData": [
+          {
+            "image": "https://media.robertsspaceindustries.com/qtcdcfwccgze0/store_hub_small.jpg",
+            "name": "Hull A"
+          }
+        ],
+        "alsoContainData": ["6 Month Insurance", "VFG Industrial Hangar"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=82&pagesize=1",
+      "available": true,
+      "category": "standalone_ship"
+    },
+    {
+      "id": "2121c21e929e01ae552121af6ceghf644953212195621210a199605d5c895921",
+      "name": "Standalone Ships - Arrow",
+      "image": "https://media.robertsspaceindustries.com/8f2vr8tia1fe4/heap_infobox.png",
+      "lastModification": "November 16, 2025",
+      "contained": "Arrow and 2 items",
+      "elementData": {
+        "price": 75,
+        "shipInThisPackData": [
+          {
+            "image": "https://media.robertsspaceindustries.com/8f2vr8tia1fe4/store_hub_small.png",
+            "name": "Arrow"
+          }
+        ],
+        "alsoContainData": ["6 Month Insurance", "Self-Land Hangar"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=83&pagesize=1",
+      "available": true,
+      "category": "standalone_ship"
+    },
+    {
+      "id": "2121c212ccd914573f2121202d3gh216499d21213b92121e02b241d80dcad821",
+      "name": "Standalone Ships - Arrow",
+      "image": "https://media.robertsspaceindustries.com/8f2vr8tia1fe4/heap_infobox.png",
+      "lastModification": "November 16, 2025",
+      "contained": "Arrow and 2 items",
+      "elementData": {
+        "price": 75,
+        "shipInThisPackData": [
+          {
+            "image": "https://media.robertsspaceindustries.com/8f2vr8tia1fe4/store_hub_small.png",
+            "name": "Arrow"
+          }
+        ],
+        "alsoContainData": ["6 Month Insurance", "Self-Land Hangar"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=84&pagesize=1",
+      "available": true,
+      "category": "standalone_ship"
+    },
+    {
+      "id": "2121c216a9fe91c3f5212168ec2ghc9dadad2121eaa2121d4e9cf05f99fc9c21",
+      "name": "Standalone Ships - Sabre",
+      "image": "https://media.robertsspaceindustries.com/qf1yh536ukl08/heap_infobox.jpg",
+      "lastModification": "November 14, 2025",
+      "contained": "Sabre and 2 items",
+      "elementData": {
+        "price": 175,
+        "shipInThisPackData": [
+          {
+            "image": "https://media.robertsspaceindustries.com/p32tq6jjp301r/store_hub_small.jpg",
+            "name": "Sabre"
+          }
+        ],
+        "alsoContainData": ["6 Month Insurance", "VFG Industrial Hangar"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=86&pagesize=1",
+      "available": true,
+      "category": "standalone_ship"
+    },
+    {
+      "id": "2121c21841cb52e56821216a9e3gh4710641212197621213c6a632b32cb3be21",
+      "name": "Paints - Starlancer - Snowcap Paint",
+      "image": "https://media.robertsspaceindustries.com/hsrky5uz9x57a/heap_infobox.jpg",
+      "lastModification": "October 25, 2025",
+      "contained": "Starlancer - Snowcap Paint",
+      "elementData": {
+        "price": 7.5,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Starlancer - Snowcap Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=91&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c219ce577044d62121436d4ghf6a1d872121d0a212109d57aea42e881721",
+      "name": "Paints - Apollo - Delphi Paint",
+      "image": "https://media.robertsspaceindustries.com/4iklk21otde1p/heap_infobox.jpg",
+      "lastModification": "October 24, 2025",
+      "contained": "Apollo - Delphi Paint",
+      "elementData": {
+        "price": 11,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Apollo - Delphi Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=96&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21cec9fe212c9212151bfaghbe1189a2121707212125f8c9b998aef9221",
+      "name": "Paints - ATLS - Ironside Paint",
+      "image": "https://media.robertsspaceindustries.com/yem3srl9mxt7s/heap_infobox.jpg",
+      "lastModification": "October 01, 2025",
+      "contained": "ATLS - Ironside Paint",
+      "elementData": {
+        "price": 5,
+        "shipInThisPackData": [],
+        "alsoContainData": ["ATLS - Ironside Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=99&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21d3712349526212164f53gh168da952121c432121eec2bf45516efd421",
+      "name": "Subscribers Store - Second Tevarin War White Dress Uniform",
+      "image": "https://media.robertsspaceindustries.com/ge92720dsbpm7/heap_infobox.jpg",
+      "lastModification": "October 01, 2025",
+      "contained": "2 items",
+      "elementData": {
+        "price": 6.5,
+        "shipInThisPackData": [],
+        "alsoContainData": [
+          "Second Tevarin War White Dress Uniform - Jacket",
+          "Second Tevarin War White Dress Uniform - Pants"
+        ]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=100&pagesize=1",
+      "available": true,
+      "category": "flair"
+    },
+    {
+      "id": "2121c217cf3777afec2121f890dgh32131cc21213c52121668324a97aac20e21",
+      "name": "Paints - Cutlass - Hawthorn Paint",
+      "image": "https://media.robertsspaceindustries.com/7aeg8ib4ww9gm/heap_infobox.jpg",
+      "lastModification": "October 01, 2025",
+      "contained": "Cutlass - Hawthorn Paint",
+      "elementData": {
+        "price": 7,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Cutlass - Hawthorn Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=101&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21d1f938a1e4a2121b4ef4gh50f67cf2121593212192027ff655814a121",
+      "name": "Paints - ATLS - Granite Paint",
+      "image": "https://media.robertsspaceindustries.com/e38hfbwwbf7lq/heap_infobox.jpg",
+      "lastModification": "September 17, 2025",
+      "contained": "ATLS - Granite Paint",
+      "elementData": {
+        "price": 3,
+        "shipInThisPackData": [],
+        "alsoContainData": ["ATLS - Granite Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=117&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21dcd2281cdba2121bed90gh21c72d32121d242121b7d5315660759a921",
+      "name": "Paints - Polaris - Apex Paint",
+      "image": "https://media.robertsspaceindustries.com/ui8jbg2qd1omo/heap_infobox.jpg",
+      "lastModification": "September 17, 2025",
+      "contained": "Polaris - Apex Paint",
+      "elementData": {
+        "price": 16.5,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Polaris - Apex Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=118&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c212b10662ce7e2121c56dbgha4decac2121a6021213f032dcb95083a621",
+      "name": "Standalone Ships - L-21 Wolf",
+      "image": "https://media.robertsspaceindustries.com/xi82sqg7ab12h/heap_infobox.jpg",
+      "lastModification": "September 10, 2025",
+      "contained": "L-21 Wolf and 2 items",
+      "elementData": {
+        "price": 100,
+        "shipInThisPackData": [
+          {
+            "image": "https://media.robertsspaceindustries.com/xi82sqg7ab12h/store_hub_small.jpg",
+            "name": "L-21 Wolf"
+          }
+        ],
+        "alsoContainData": ["6 Month Insurance", "Self-Land Hangar"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=122&pagesize=1",
+      "available": true,
+      "category": "standalone_ship"
+    },
+    {
+      "id": "2121c2191fee8293e52121f9a89gh36c15aa212125a2121923680127c122ed21",
+      "name": "Gear - Hazard - Patch Bundle",
+      "image": "https://media.robertsspaceindustries.com/fd4rhqptcr9ln/heap_infobox.jpg",
+      "lastModification": "August 30, 2025",
+      "contained": "5 items",
+      "elementData": {
+        "price": 27,
+        "shipInThisPackData": [],
+        "alsoContainData": [
+          "Spirit - Hazard Paint",
+          "Prism \"Hazard\" Laser Shotgun",
+          "Stirling Hazard Suit",
+          "Stirling Hazard Helmet",
+          "Stirling Hazard Backpack"
+        ]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=123&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c211d3b8693360212115cc0ghdae0e8121216c321211cf5024b0bd61c121",
+      "name": "Paints - RAFT - Anchor Paint",
+      "image": "https://media.robertsspaceindustries.com/josugh9lxt30u/heap_infobox.jpg",
+      "lastModification": "August 30, 2025",
+      "contained": "RAFT - Anchor Paint",
+      "elementData": {
+        "price": 4.5,
+        "shipInThisPackData": [],
+        "alsoContainData": ["RAFT - Anchor Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=124&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21200284605bf21218889egh7e2318721217472121715eff16c5857e221",
+      "name": "Gear - Origin Racing Gear Pack",
+      "image": "https://media.robertsspaceindustries.com/fpgoeir9nvllx/heap_infobox.jpg",
+      "lastModification": "August 30, 2025",
+      "contained": "3 items",
+      "elementData": {
+        "price": 11.05,
+        "shipInThisPackData": [],
+        "alsoContainData": [
+          "Origin Racing Flight Suit",
+          "Origin Racing Helmet",
+          "C54 \"Origin Racing\" SMG"
+        ]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=125&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c212518ae6f56421214a4ddgh473ec4d212135a212191c9dc588e816b521",
+      "name": "Paints - Spirit - Valor Paint",
+      "image": "https://media.robertsspaceindustries.com/mgh4pqu5dbsrp/heap_infobox.jpg",
+      "lastModification": "July 19, 2025",
+      "contained": "Spirit - Valor Paint",
+      "elementData": {
+        "price": 6,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Spirit - Valor Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=139&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c219ef87f164c92121a999cgh9d4f5e02121768212181763bf73b6be3b21",
+      "name": "100 Series - Foundation Festival Guide Reward",
+      "image": "https://media.robertsspaceindustries.com/bevjzvuy2w0he/heap_infobox.jpg",
+      "lastModification": "July 19, 2025",
+      "contained": "100 Series - Foundation Festival Paint",
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=141&pagesize=1",
+      "available": false,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21d9beebf87e9212132fb1gh79d4e3d21218fc2121a04784c1fce97a421",
+      "name": "Package - Privateer Starter Pack - upgraded",
+      "image": "https://media.robertsspaceindustries.com/b376gfdngkuxe/heap_infobox.jpg",
+      "lastModification": "July 19, 2025",
+      "contained": "Cutlass Red and 4 items",
+      "elementData": {
+        "price": 125,
+        "shipInThisPackData": [
+          {
+            "image": "https://media.robertsspaceindustries.com/b376gfdngkuxe/store_hub_small.jpg",
+            "name": "Cutlass Black"
+          }
+        ],
+        "alsoContainData": [
+          "Star Citizen Digital Download",
+          "10,000 UEC",
+          "VFG Industrial Hangar",
+          "6 Month Insurance"
+        ]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=142&pagesize=1",
+      "available": true,
+      "category": "game_package"
+    },
+    {
+      "id": "2121c21380342cada62121cf270ghc3108652121f022121f2dc7befd5b6bfc21",
+      "name": "Package - Miner Starter Pack",
+      "image": "https://media.robertsspaceindustries.com/1veqrzmppmfdu/heap_infobox.jpg",
+      "lastModification": "July 19, 2025",
+      "contained": "Golem and 4 items",
+      "elementData": {
+        "price": 75,
+        "shipInThisPackData": [
+          {
+            "image": "https://media.robertsspaceindustries.com/m83ws857ug3ss/store_hub_small.jpg",
+            "name": "Golem"
+          }
+        ],
+        "alsoContainData": [
+          "Star Citizen Digital Download",
+          "6 Month Insurance",
+          "Self-Land Hangar",
+          "10,000 UEC"
+        ]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=143&pagesize=1",
+      "available": true,
+      "category": "game_package"
+    },
+    {
+      "id": "2121c2146ad48011432121cc9a2gh0453baf2121ce72121ccd49556c35ae3a21",
+      "name": "Standalone Ships - C1 Spirit",
+      "image": "https://media.robertsspaceindustries.com/wj3pw1cft0wvh/heap_infobox.jpg",
+      "lastModification": "July 19, 2025",
+      "contained": "C1 Spirit and 2 items",
+      "elementData": {
+        "price": 125,
+        "shipInThisPackData": [
+          {
+            "image": "https://media.robertsspaceindustries.com/wj3pw1cft0wvh/store_hub_small.jpg",
+            "name": "C1 Spirit"
+          }
+        ],
+        "alsoContainData": ["6 Month Insurance", "Aeroview Hangar"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=144&pagesize=1",
+      "available": true,
+      "category": "standalone_ship"
+    },
+    {
+      "id": "2121c21aabee81d1892121e5a22gh1331b0d2121fd72121625741572ca4c9121",
+      "name": "Standalone Ships - 315p",
+      "image": "https://media.robertsspaceindustries.com/zd6vxsvdq0gxp/heap_infobox.jpg",
+      "lastModification": "July 18, 2025",
+      "contained": "315p Explorer and 3 items",
+      "elementData": {
+        "price": 65,
+        "shipInThisPackData": [
+          {
+            "image": "https://media.robertsspaceindustries.com/zd6vxsvdq0gxp/store_hub_small.jpg",
+            "name": "315p Explorer"
+          }
+        ],
+        "alsoContainData": [
+          "6 Month Insurance",
+          "Self-Land Hangar",
+          "Customization Options"
+        ]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=145&pagesize=1",
+      "available": true,
+      "category": "standalone_ship"
+    },
+    {
+      "id": "2121c21200722a4e3121211965eghab2acfd2121e722121956a1258855722d21",
+      "name": "Subscribers Store - Neoni \"Onna\" Helmet",
+      "image": "https://robertsspaceindustries.com/media/ztp3zd6yfnvhkr/heap_infobox/NeoniHelmet_White_SKU.jpg",
+      "lastModification": "July 03, 2025",
+      "contained": "Neoni Onna Helmet",
+      "elementData": {
+        "price": 4,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Neoni Onna Helmet"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=152&pagesize=1",
+      "available": true,
+      "category": "flair"
+    },
+    {
+      "id": "2121c213d62e3c129e2121744e5gh32d66fa212122a2121485d821db77bd3621",
+      "name": "Subscribers Store - \"Caudillo\" Helmets Pack #1 by CC's Conversions",
+      "image": "https://robertsspaceindustries.com/media/akflc5o7ih504r/heap_infobox/Helmet_Caudillo_Set_01.jpg",
+      "lastModification": "July 03, 2025",
+      "contained": "2 items",
+      "elementData": {
+        "price": 4,
+        "shipInThisPackData": [],
+        "alsoContainData": [
+          "Caudillo \"Cobalt\" Helmet",
+          "Caudillo \"Ghost White\" Helmet"
+        ]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=153&pagesize=1",
+      "available": true,
+      "category": "flair"
+    },
+    {
+      "id": "2121c21eb083e53a692121c6bb7gh0f3583d2121aba21217cb704325e6e34e21",
+      "name": "Paints - Starlancer - Bonfire Paint",
+      "image": "https://media.robertsspaceindustries.com/ipjj2yr7cns2w/heap_infobox.jpg",
+      "lastModification": "July 02, 2025",
+      "contained": "Starlancer - Bonfire Paint",
+      "elementData": {
+        "price": 7.5,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Starlancer - Bonfire Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=154&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c216d65bd8349f212172febghda1205e212197f2121045cdf77113edfc21",
+      "name": "Paints - Starlancer - Atlantic Paint ",
+      "image": "https://media.robertsspaceindustries.com/gd0hyf65j8n8i/heap_infobox.jpg",
+      "lastModification": "July 02, 2025",
+      "contained": "Starlancer - Atlantic Paint",
+      "elementData": {
+        "price": 11,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Starlancer - Atlantic Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=156&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21adb2e79dda421218c6a8ghea403de212117f212130403d69b3630c421",
+      "name": "Paints - Starlancer - Wildcat Paint",
+      "image": "https://media.robertsspaceindustries.com/tepzdknhz1vy1/heap_infobox.jpg",
+      "lastModification": "July 02, 2025",
+      "contained": "Starlancer - Wildcat Paint",
+      "elementData": {
+        "price": 7.5,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Starlancer - Wildcat Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=157&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21316303e36c521219ff57gh0c68fa121214572121a9c760e27e6a3f221",
+      "name": "Paints - Starlancer - Snowcap Paint",
+      "image": "https://media.robertsspaceindustries.com/hsrky5uz9x57a/heap_infobox.jpg",
+      "lastModification": "July 02, 2025",
+      "contained": "Starlancer - Snowcap Paint",
+      "elementData": {
+        "price": 7.5,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Starlancer - Snowcap Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=158&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21e5c27eaf7862121c45b7gh294a72721219a02121b4e3a2886a9f30c21",
+      "name": "Paints - Starlancer - Tellus Paint",
+      "image": "https://media.robertsspaceindustries.com/g5qikdkqpdwtx/heap_infobox.jpg",
+      "lastModification": "July 02, 2025",
+      "contained": "Starlancer - Tellus Paint",
+      "elementData": {
+        "price": 7.5,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Starlancer - Tellus Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=159&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21441a1b3e59b2121be612gh38a625f2121371212146a96a1a96ea55621",
+      "name": "Standalone Ships - ATLS",
+      "image": "https://media.robertsspaceindustries.com/myzjzr8ynvhbv/heap_infobox.jpg",
+      "lastModification": "June 30, 2025",
+      "contained": "A.T.L.S. and 6 Month Insurance",
+      "elementData": {
+        "price": 40,
+        "shipInThisPackData": [
+          {
+            "image": "https://media.robertsspaceindustries.com/myzjzr8ynvhbv/store_hub_small.jpg",
+            "name": "A.T.L.S."
+          }
+        ],
+        "alsoContainData": ["6 Month Insurance"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=160&pagesize=1",
+      "available": true,
+      "category": "standalone_ship"
+    },
+    {
+      "id": "2121c2147d8e2d92522121ca740ghd1e8746212133421215d8ecf878689c9b21",
+      "name": "Standalone Ships - ATLS GEO",
+      "image": "https://media.robertsspaceindustries.com/qa7k6hrbw225g/heap_infobox.jpg",
+      "lastModification": "June 24, 2025",
+      "contained": "ATLS GEO and 6 Month Insurance",
+      "elementData": {
+        "price": 45,
+        "shipInThisPackData": [
+          {
+            "image": "https://media.robertsspaceindustries.com/qa7k6hrbw225g/store_hub_small.jpg",
+            "name": "ATLS GEO"
+          }
+        ],
+        "alsoContainData": ["6 Month Insurance"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=163&pagesize=1",
+      "available": true,
+      "category": "standalone_ship"
+    },
+    {
+      "id": "2121c2151a494d5686212188164gh322994b212125d212165445a4e1132d5021",
+      "name": "Paints - Starlancer - Snowcap Paint",
+      "image": "https://media.robertsspaceindustries.com/hsrky5uz9x57a/heap_infobox.jpg",
+      "lastModification": "June 12, 2025",
+      "contained": "Starlancer - Snowcap Paint",
+      "elementData": {
+        "price": 7.5,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Starlancer - Snowcap Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=178&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21e1ef6230b98212193f0cghca732d421218a2212161d631148203c2621",
+      "name": "Gear - CDS ADP-mk4 “Red Alert” Armor",
+      "image": "https://media.robertsspaceindustries.com/ktf4eqi7hhybf/heap_infobox.jpg",
+      "lastModification": "June 05, 2025",
+      "contained": "6 items",
+      "elementData": {
+        "price": 14,
+        "shipInThisPackData": [],
+        "alsoContainData": [
+          "CDS ADP-mk4 Red Alert Helmet",
+          "CDS ADP-mk4 Red Alert Core",
+          "CDS ADP-mk4 Red Alert Arms",
+          "CDS ADP-mk4 Red Alert Legs",
+          "CSP-68H Red Alert Backpack",
+          "TCS-4 Undersuit Red Alert"
+        ]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=180&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21972adbc099a212159b34ghfb52b0c2121b2e21214e8f76974104f4921",
+      "name": "Subscribers Store - Zeus Exploration Suit Starscape",
+      "image": "https://media.robertsspaceindustries.com/xpbuit63jc7nj/heap_infobox.jpg",
+      "lastModification": "June 05, 2025",
+      "contained": "3 items",
+      "elementData": {
+        "price": 12.5,
+        "shipInThisPackData": [],
+        "alsoContainData": [
+          "Zeus Exploration Suit Starscape",
+          "Zeus Exploration Suit Helmet Starscape",
+          "Zeus Exploration Suit Backpack Starscape"
+        ]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=181&pagesize=1",
+      "available": true,
+      "category": "flair"
+    },
+    {
+      "id": "2121c21198f944d0d7212174789gh553206e2121a0b21218caf4f18f79685221",
+      "name": "Subscribers Store - Voidripper Helmet with Defiance Armor Charcoal",
+      "image": "https://media.robertsspaceindustries.com/p7bedyd50vnx3/heap_infobox.jpg",
+      "lastModification": "June 05, 2025",
+      "contained": "4 items",
+      "elementData": {
+        "price": 12.5,
+        "shipInThisPackData": [],
+        "alsoContainData": [
+          "Voidripper Helmet",
+          "Defiance Armor Charcoal - Arms",
+          "Defiance Armor Charcoal - Core",
+          "Defiance Armor Charcoal - Legs"
+        ]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=182&pagesize=1",
+      "available": true,
+      "category": "flair"
+    },
+    {
+      "id": "2121c21060f4e90ae22121f9208gh0fe75e42121f9f212169ba9709792759e21",
+      "name": "Standalone Ships - ATLS GEO",
+      "image": "https://media.robertsspaceindustries.com/qa7k6hrbw225g/heap_infobox.jpg",
+      "lastModification": "June 01, 2025",
+      "contained": "ATLS GEO and 6 Month Insurance",
+      "elementData": {
+        "price": 45,
+        "shipInThisPackData": [
+          {
+            "image": "https://media.robertsspaceindustries.com/qa7k6hrbw225g/store_hub_small.jpg",
+            "name": "ATLS GEO"
+          }
+        ],
+        "alsoContainData": ["6 Month Insurance"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=183&pagesize=1",
+      "available": true,
+      "category": "standalone_ship"
+    },
+    {
+      "id": "2121c21699aa1c2a5a212193cebgh7d8be822121909212157cfb395971d94721",
+      "name": "Paints - MTC - Brushwood Paint",
+      "image": "https://media.robertsspaceindustries.com/4gqnf0wpeatli/heap_infobox.jpg",
+      "lastModification": "May 31, 2025",
+      "contained": "MXC - Brushwood Paint",
+      "elementData": {
+        "price": 3,
+        "shipInThisPackData": [],
+        "alsoContainData": ["MXC - Brushwood Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=185&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21a83c277d58d2121e5dd0gh7d32f2c2121c0a2121a97ed906049a3a121",
+      "name": "Paints - Avenger - Ironweave Paint",
+      "image": "https://media.robertsspaceindustries.com/pkrb5ki4bt540/heap_infobox.jpg",
+      "lastModification": "May 25, 2025",
+      "contained": "Avenger - Ironweave Paint",
+      "elementData": {
+        "price": 3,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Avenger - Ironweave Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=200&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c218498c1c3d3c2121edd03gh778b9eb2121f8021216b134fc2c287a8921",
+      "name": "Paints - Constellation - Polar Paint",
+      "image": "https://media.robertsspaceindustries.com/2ko055udhi4dp/heap_infobox.jpg",
+      "lastModification": "May 25, 2025",
+      "contained": "Constellation - Polar Paint",
+      "elementData": {
+        "price": 11,
+        "shipInThisPackData": [],
+        "alsoContainData": ["Constellation - Polar Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=201&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21894c7246ef12121c5f22gh567c7352121545212185420aa8a9751e521",
+      "name": "Paints - ATLS - Keystone Paint",
+      "image": "https://media.robertsspaceindustries.com/uuvg6a49dr9fl/heap_infobox.jpg",
+      "lastModification": "May 25, 2025",
+      "contained": "ATLS - Keystone Paint",
+      "elementData": {
+        "price": 5,
+        "shipInThisPackData": [],
+        "alsoContainData": ["ATLS - Keystone Paint"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=202&pagesize=1",
+      "available": true,
+      "category": "no_category"
+    },
+    {
+      "id": "2121c21115e6d725c9212143c65gh5e24c5f21216a32121da67427d2b5153221",
+      "name": "Standalone Ships - ATLS GEO",
+      "image": "https://media.robertsspaceindustries.com/qa7k6hrbw225g/heap_infobox.jpg",
+      "lastModification": "May 25, 2025",
+      "contained": "ATLS GEO and 6 Month Insurance",
+      "elementData": {
+        "price": 45,
+        "shipInThisPackData": [
+          {
+            "image": "https://media.robertsspaceindustries.com/qa7k6hrbw225g/store_hub_small.jpg",
+            "name": "ATLS GEO"
+          }
+        ],
+        "alsoContainData": ["6 Month Insurance"]
+      },
+      "link": "https://robertsspaceindustries.com/en/account/buy-back-pledges?page=203&pagesize=1",
+      "available": true,
+      "category": "standalone_ship"
+    }
+  ]
+}
